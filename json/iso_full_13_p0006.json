@@ -1,0 +1,1109 @@
+{
+    "image_id": "iso_full_13_p0006",
+    "adversarial_scenario": "FULL_ORDERED",
+    "metadata": {
+        "width": 1414,
+        "height": 1000
+    },
+    "oracle_graph": {
+        "nodes": [
+            {
+                "node_id": "n_ft_top",
+                "polygon": [
+                    677,
+                    382,
+                    737,
+                    382,
+                    737,
+                    410,
+                    677,
+                    410
+                ],
+                "text": "",
+                "type": "FISHTAIL_MARK",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_水_43902",
+                "polygon": [
+                    689,
+                    417,
+                    725,
+                    417,
+                    725,
+                    453,
+                    689,
+                    453
+                ],
+                "text": "水",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_浒_13298",
+                "polygon": [
+                    689,
+                    453,
+                    725,
+                    453,
+                    725,
+                    489,
+                    689,
+                    489
+                ],
+                "text": "浒",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_传_61188",
+                "polygon": [
+                    689,
+                    489,
+                    725,
+                    489,
+                    725,
+                    525,
+                    689,
+                    525
+                ],
+                "text": "传",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_第_36759",
+                "polygon": [
+                    689,
+                    525,
+                    725,
+                    525,
+                    725,
+                    561,
+                    689,
+                    561
+                ],
+                "text": "第",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_四_63830",
+                "polygon": [
+                    689,
+                    561,
+                    725,
+                    561,
+                    725,
+                    597,
+                    689,
+                    597
+                ],
+                "text": "四",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_十_18705",
+                "polygon": [
+                    689,
+                    597,
+                    725,
+                    597,
+                    725,
+                    633,
+                    689,
+                    633
+                ],
+                "text": "十",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_二_30571",
+                "polygon": [
+                    689,
+                    633,
+                    725,
+                    633,
+                    725,
+                    669,
+                    689,
+                    669
+                ],
+                "text": "二",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "bx_回_16297",
+                "polygon": [
+                    689,
+                    669,
+                    725,
+                    669,
+                    725,
+                    705,
+                    689,
+                    705
+                ],
+                "text": "回",
+                "type": "CENTER_FOLD_COLUMN",
+                "attributes": {
+                    "z": 0
+                }
+            },
+            {
+                "node_id": "cr_9",
+                "polygon": [
+                    1117,
+                    220,
+                    1137,
+                    220,
+                    1137,
+                    868,
+                    1117,
+                    868
+                ],
+                "text": "粤自仲尼殁而微言绝而忠恕一贯之义其不讲于天下也既已久矣夫中心之谓忠也如心",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_10",
+                "polygon": [
+                    1097,
+                    220,
+                    1117,
+                    220,
+                    1117,
+                    868,
+                    1097,
+                    868
+                ],
+                "text": "之谓恕也见其父而知爱之谓孝见其君而知爱之谓敬夫孝敬由于中心油油然不自知其",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_11",
+                "polygon": [
+                    1077,
+                    220,
+                    1097,
+                    220,
+                    1097,
+                    868,
+                    1077,
+                    868
+                ],
+                "text": "达于外也如恶恶臭如好好色不思而得不勉而中此之谓自慊圣人自慊愚人亦自慊君子",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_12",
+                "polygon": [
+                    1057,
+                    220,
+                    1077,
+                    220,
+                    1077,
+                    868,
+                    1057,
+                    868
+                ],
+                "text": "为善自慊小人为不善亦自慊为不善亦自慊者厌然掩之而终亦肺肝如见然则天下之意",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_13",
+                "polygon": [
+                    1037,
+                    220,
+                    1057,
+                    220,
+                    1057,
+                    868,
+                    1037,
+                    868
+                ],
+                "text": "未有不诚者也善亦诚于中形于外不善亦诚于中形于外不思善不思恶若恶恶臭好好色",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_14",
+                "polygon": [
+                    1017,
+                    220,
+                    1037,
+                    220,
+                    1037,
+                    868,
+                    1017,
+                    868
+                ],
+                "text": "之微亦无不诚于中形于外盖天下无有一人无有一事无有一刻不诚于中形于外也者故",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_15",
+                "polygon": [
+                    997,
+                    220,
+                    1017,
+                    220,
+                    1017,
+                    868,
+                    997,
+                    868
+                ],
+                "text": "曰自诚明谓之性性之为言故也故之为言自然也自然之为言天命也天命圣人则无一人",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_16",
+                "polygon": [
+                    977,
+                    220,
+                    997,
+                    220,
+                    997,
+                    868,
+                    977,
+                    868
+                ],
+                "text": "而非圣人也天命至诚则无善无不善而非至诚也性相近也习相远也善不善其习也善不",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_17",
+                "polygon": [
+                    957,
+                    220,
+                    977,
+                    220,
+                    977,
+                    868,
+                    957,
+                    868
+                ],
+                "text": "善无不诚于中于形外其性也唯上智与下愚不移者虽圣人亦有下愚之德虽愚人亦有上",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_18",
+                "polygon": [
+                    937,
+                    220,
+                    957,
+                    220,
+                    957,
+                    868,
+                    937,
+                    868
+                ],
+                "text": "智之德若恶恶臭好好色不惟愚人不及觉虽圣人亦不及觉是下愚之德也若恶恶臭好好",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_19",
+                "polygon": [
+                    917,
+                    220,
+                    937,
+                    220,
+                    937,
+                    868,
+                    917,
+                    868
+                ],
+                "text": "色乃至为善为不善无不诚于中形于外圣人无所增愚人无所减是上智之德也何必不喜",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_20",
+                "polygon": [
+                    897,
+                    220,
+                    917,
+                    220,
+                    917,
+                    868,
+                    897,
+                    868
+                ],
+                "text": "何必不怒何必不哀何必不乐喜怒哀乐不必圣人能有之也匹妇能之赤子能之乃至禽虫",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_21",
+                "polygon": [
+                    877,
+                    220,
+                    897,
+                    220,
+                    897,
+                    868,
+                    877,
+                    868
+                ],
+                "text": "能之是则所谓道也道也者不可须臾离也道即所谓独也不可须臾离即所谓慎也何谓独",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_22",
+                "polygon": [
+                    857,
+                    220,
+                    877,
+                    220,
+                    877,
+                    868,
+                    857,
+                    868
+                ],
+                "text": "诚于中形于外喜即盈天地之间止一喜怒即盈天地之间止一怒哀乐即盈天地之间止一",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_23",
+                "polygon": [
+                    837,
+                    220,
+                    857,
+                    220,
+                    857,
+                    868,
+                    837,
+                    868
+                ],
+                "text": "哀止一乐更无旁念得而副贰之也何谓慎修道之教是也教之为言自明而诚者也有不善",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_24",
+                "polygon": [
+                    817,
+                    220,
+                    837,
+                    220,
+                    837,
+                    868,
+                    817,
+                    868
+                ],
+                "text": "未尝不知知之未尝复行则庶几矣不敢掩其不善而著其善也何也恶其无益也知不善未",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_25",
+                "polygon": [
+                    797,
+                    220,
+                    817,
+                    220,
+                    817,
+                    868,
+                    797,
+                    868
+                ],
+                "text": "尝复行然则其择乎中庸得一善而拳拳服膺必弗失之矣是非君之恶于不善之如彼也又",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_26",
+                "polygon": [
+                    777,
+                    220,
+                    797,
+                    220,
+                    797,
+                    868,
+                    777,
+                    868
+                ],
+                "text": "非君子好善之如此也夫好善恶不善则是君子遵道而行半途而必废者耳非所以学而至",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_27",
+                "polygon": [
+                    757,
+                    220,
+                    777,
+                    220,
+                    777,
+                    868,
+                    757,
+                    868
+                ],
+                "text": "于圣人之法也若夫君子欲诚其意之终必由于择善而固执之者亦以为善之后也若失为",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_28",
+                "polygon": [
+                    737,
+                    220,
+                    757,
+                    220,
+                    757,
+                    868,
+                    737,
+                    868
+                ],
+                "text": "不善之后也若得若得则不免于厌然之掩矣若失则庶几其无只于悔矣圣人知当其欲掩",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_29",
+                "polygon": [
+                    657,
+                    220,
+                    677,
+                    220,
+                    677,
+                    868,
+                    657,
+                    868
+                ],
+                "text": "而制之使不掩也难不若引而置之无悔之地而使之驯至乎心广体胖也易故必津律以择",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_30",
+                "polygon": [
+                    637,
+                    220,
+                    657,
+                    220,
+                    657,
+                    868,
+                    637,
+                    868
+                ],
+                "text": "善教后世者所谓慎独之始事而非大学止至善之善也择乎中庸得一善固执之而弗失能",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_31",
+                "polygon": [
+                    617,
+                    220,
+                    637,
+                    220,
+                    637,
+                    868,
+                    617,
+                    868
+                ],
+                "text": "如是矣然后谓之慎独慎独而知从本是独不惟有小人之掩即非独苟有君子之慎亦即非",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_32",
+                "polygon": [
+                    597,
+                    220,
+                    617,
+                    220,
+                    617,
+                    868,
+                    597,
+                    868
+                ],
+                "text": "独于是始而择既而慎终而并慎亦不复慎当是时喜怒哀乐不思而得不勉而中如恶恶臭",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_33",
+                "polygon": [
+                    577,
+                    220,
+                    597,
+                    220,
+                    597,
+                    868,
+                    577,
+                    868
+                ],
+                "text": "如好好色从容中道圣人也如是谓之止于至善不曰至于至善而曰止于至善者至善在近",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_34",
+                "polygon": [
+                    557,
+                    220,
+                    577,
+                    220,
+                    577,
+                    868,
+                    557,
+                    868
+                ],
+                "text": "不在远若欲至于至善则是人之为道而远人不可以为道也故曰贤智过之为其欲至至善",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_35",
+                "polygon": [
+                    537,
+                    220,
+                    557,
+                    220,
+                    557,
+                    868,
+                    537,
+                    868
+                ],
+                "text": "故过之也若愚不肖之不及则为其不知择善慎独故不及耳然其同归不能明行大道岂有",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_36",
+                "polygon": [
+                    517,
+                    220,
+                    537,
+                    220,
+                    537,
+                    868,
+                    517,
+                    868
+                ],
+                "text": "异哉若夫止于至善也者维皇阵衷于民无不至善无不至善则应止矣不惟小人为不善之",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_37",
+                "polygon": [
+                    497,
+                    220,
+                    517,
+                    220,
+                    517,
+                    868,
+                    497,
+                    868
+                ],
+                "text": "非止也彼君子之为善亦非止也不惟为善为不善之非止也彼君子之犹未免于慎独之慎",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_38",
+                "polygon": [
+                    477,
+                    220,
+                    497,
+                    220,
+                    497,
+                    868,
+                    477,
+                    868
+                ],
+                "text": "犹未止也人诚明乎此则能知止矣知止也者不惟能知至善不当止也又能知不止之从无",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_39",
+                "polygon": [
+                    457,
+                    220,
+                    477,
+                    220,
+                    477,
+                    868,
+                    457,
+                    868
+                ],
+                "text": "不止也夫诚知不止之从无不止而明于明德更无惑矣而后有定知致则意诚也而后能静",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_40",
+                "polygon": [
+                    437,
+                    220,
+                    457,
+                    220,
+                    457,
+                    868,
+                    437,
+                    868
+                ],
+                "text": "意诚则心正也而后能安心正则身修也而后能虑身修则家齐国治天下平也而后能得家",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_41",
+                "polygon": [
+                    417,
+                    220,
+                    437,
+                    220,
+                    437,
+                    868,
+                    417,
+                    868
+                ],
+                "text": "齐国治天下平则尽明德之量所谓德之为言得也夫始乎明终乎明德而正心修身齐家治",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_42",
+                "polygon": [
+                    397,
+                    220,
+                    417,
+                    220,
+                    417,
+                    868,
+                    397,
+                    868
+                ],
+                "text": "国平天下无不全举如此故曰明则诚矣惟天下至诚为能赞天地之化育也呜呼是则孔子",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_43",
+                "polygon": [
+                    377,
+                    220,
+                    397,
+                    220,
+                    397,
+                    868,
+                    377,
+                    868
+                ],
+                "text": "昔者之所谓忠之义也盖忠之为言中心之谓也喜怒哀乐之未发谓之中发而为喜怒哀乐",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_44",
+                "polygon": [
+                    357,
+                    220,
+                    377,
+                    220,
+                    377,
+                    868,
+                    357,
+                    868
+                ],
+                "text": "之中节谓之心率我之喜怒哀乐自然诚于中形于外谓之忠知家国天下之人率其喜怒哀",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_45",
+                "polygon": [
+                    337,
+                    220,
+                    357,
+                    220,
+                    357,
+                    868,
+                    337,
+                    868
+                ],
+                "text": "乐无不自然诚于中形于外请之恕知喜怒哀乐无我无人无不自然诚于中形于处谓之格",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_46",
+                "polygon": [
+                    317,
+                    220,
+                    337,
+                    220,
+                    337,
+                    868,
+                    317,
+                    868
+                ],
+                "text": "物能无我无人无不任其自然喜怒哀乐而天地以位万物以育谓之天下平曾子得之忠谓",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "cr_47",
+                "polygon": [
+                    297,
+                    220,
+                    317,
+                    220,
+                    317,
+                    868,
+                    297,
+                    868
+                ],
+                "text": "之一恕谓之贯子思得之忠谓之中恕谓之庸故曰无党无偏王道平平无偏无党王道荡荡",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "R"
+                }
+            },
+            {
+                "node_id": "cl_48",
+                "polygon": [
+                    277,
+                    220,
+                    297,
+                    220,
+                    297,
+                    868,
+                    277,
+                    868
+                ],
+                "text": "呜呼此固昔者孔子志在春秋行在孝经之精义后之学者诚得闻此内以之治其性情即可",
+                "type": "INTERLINEAR_ANNOTATION",
+                "attributes": {
+                    "side": "L"
+                }
+            },
+            {
+                "node_id": "seal_2161",
+                "polygon": [
+                    0,
+                    0,
+                    120,
+                    0,
+                    120,
+                    120,
+                    0,
+                    120
+                ],
+                "text": "印",
+                "type": "RED_SEAL_STAMP",
+                "attributes": {
+                    "z": 3
+                }
+            }
+        ],
+        "edges": [
+            {
+                "source": "cr_9",
+                "target": "cl_10",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_10",
+                "target": "cr_11",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_11",
+                "target": "cl_12",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_12",
+                "target": "cr_13",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_13",
+                "target": "cl_14",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_14",
+                "target": "cr_15",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_15",
+                "target": "cl_16",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_16",
+                "target": "cr_17",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_17",
+                "target": "cl_18",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_18",
+                "target": "cr_19",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_19",
+                "target": "cl_20",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_20",
+                "target": "cr_21",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_21",
+                "target": "cl_22",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_22",
+                "target": "cr_23",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_23",
+                "target": "cl_24",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_24",
+                "target": "cr_25",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_25",
+                "target": "cl_26",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_26",
+                "target": "cr_27",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_27",
+                "target": "cl_28",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_28",
+                "target": "cr_29",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_29",
+                "target": "cl_30",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_30",
+                "target": "cr_31",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_31",
+                "target": "cl_32",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_32",
+                "target": "cr_33",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_33",
+                "target": "cl_34",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_34",
+                "target": "cr_35",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_35",
+                "target": "cl_36",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_36",
+                "target": "cr_37",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_37",
+                "target": "cl_38",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_38",
+                "target": "cr_39",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_39",
+                "target": "cl_40",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_40",
+                "target": "cr_41",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_41",
+                "target": "cl_42",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_42",
+                "target": "cr_43",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_43",
+                "target": "cl_44",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_44",
+                "target": "cr_45",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_45",
+                "target": "cl_46",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cl_46",
+                "target": "cr_47",
+                "type": "READS_AFTER"
+            },
+            {
+                "source": "cr_47",
+                "target": "cl_48",
+                "type": "READS_AFTER"
+            }
+        ]
+    }
+}
