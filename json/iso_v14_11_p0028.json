@@ -1,0 +1,5860 @@
+{
+  "image_id": "iso_v14_11_p0028",
+  "adversarial_scenario": "NORMAL",
+  "metadata": {
+    "width": 1414,
+    "height": 1000
+  },
+  "oracle_graph": {
+    "nodes": [
+      {
+        "node_id": "n_frame1",
+        "polygon": [
+          277,
+          220,
+          1137,
+          220,
+          1137,
+          868,
+          277,
+          868
+        ],
+        "text": "",
+        "type": "OUTER_PAGE_FRAME",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator1",
+        "polygon": [
+          1097,
+          220,
+          1098,
+          220,
+          1098,
+          868,
+          1097,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator2",
+        "polygon": [
+          1137,
+          220,
+          1138,
+          220,
+          1138,
+          868,
+          1137,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator3",
+        "polygon": [
+          1057,
+          220,
+          1058,
+          220,
+          1058,
+          868,
+          1057,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator4",
+        "polygon": [
+          1097,
+          220,
+          1098,
+          220,
+          1098,
+          868,
+          1097,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator5",
+        "polygon": [
+          1017,
+          220,
+          1018,
+          220,
+          1018,
+          868,
+          1017,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator6",
+        "polygon": [
+          1057,
+          220,
+          1058,
+          220,
+          1058,
+          868,
+          1057,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator7",
+        "polygon": [
+          977,
+          220,
+          978,
+          220,
+          978,
+          868,
+          977,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator8",
+        "polygon": [
+          1017,
+          220,
+          1018,
+          220,
+          1018,
+          868,
+          1017,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator9",
+        "polygon": [
+          937,
+          220,
+          938,
+          220,
+          938,
+          868,
+          937,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator10",
+        "polygon": [
+          977,
+          220,
+          978,
+          220,
+          978,
+          868,
+          977,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator11",
+        "polygon": [
+          897,
+          220,
+          898,
+          220,
+          898,
+          868,
+          897,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator12",
+        "polygon": [
+          937,
+          220,
+          938,
+          220,
+          938,
+          868,
+          937,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator13",
+        "polygon": [
+          857,
+          220,
+          858,
+          220,
+          858,
+          868,
+          857,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator14",
+        "polygon": [
+          897,
+          220,
+          898,
+          220,
+          898,
+          868,
+          897,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator15",
+        "polygon": [
+          817,
+          220,
+          818,
+          220,
+          818,
+          868,
+          817,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator16",
+        "polygon": [
+          857,
+          220,
+          858,
+          220,
+          858,
+          868,
+          857,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator17",
+        "polygon": [
+          777,
+          220,
+          778,
+          220,
+          778,
+          868,
+          777,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator18",
+        "polygon": [
+          817,
+          220,
+          818,
+          220,
+          818,
+          868,
+          817,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator19",
+        "polygon": [
+          737,
+          220,
+          738,
+          220,
+          738,
+          868,
+          737,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator20",
+        "polygon": [
+          777,
+          220,
+          778,
+          220,
+          778,
+          868,
+          777,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator21",
+        "polygon": [
+          637,
+          220,
+          638,
+          220,
+          638,
+          868,
+          637,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator22",
+        "polygon": [
+          677,
+          220,
+          678,
+          220,
+          678,
+          868,
+          677,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator23",
+        "polygon": [
+          597,
+          220,
+          598,
+          220,
+          598,
+          868,
+          597,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator24",
+        "polygon": [
+          637,
+          220,
+          638,
+          220,
+          638,
+          868,
+          637,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator25",
+        "polygon": [
+          557,
+          220,
+          558,
+          220,
+          558,
+          868,
+          557,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator26",
+        "polygon": [
+          597,
+          220,
+          598,
+          220,
+          598,
+          868,
+          597,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator27",
+        "polygon": [
+          517,
+          220,
+          518,
+          220,
+          518,
+          868,
+          517,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator28",
+        "polygon": [
+          557,
+          220,
+          558,
+          220,
+          558,
+          868,
+          557,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator29",
+        "polygon": [
+          477,
+          220,
+          478,
+          220,
+          478,
+          868,
+          477,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator30",
+        "polygon": [
+          517,
+          220,
+          518,
+          220,
+          518,
+          868,
+          517,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator31",
+        "polygon": [
+          437,
+          220,
+          438,
+          220,
+          438,
+          868,
+          437,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator32",
+        "polygon": [
+          477,
+          220,
+          478,
+          220,
+          478,
+          868,
+          477,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator33",
+        "polygon": [
+          397,
+          220,
+          398,
+          220,
+          398,
+          868,
+          397,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator34",
+        "polygon": [
+          437,
+          220,
+          438,
+          220,
+          438,
+          868,
+          437,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator35",
+        "polygon": [
+          357,
+          220,
+          358,
+          220,
+          358,
+          868,
+          357,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator36",
+        "polygon": [
+          397,
+          220,
+          398,
+          220,
+          398,
+          868,
+          397,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator37",
+        "polygon": [
+          317,
+          220,
+          318,
+          220,
+          318,
+          868,
+          317,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator38",
+        "polygon": [
+          357,
+          220,
+          358,
+          220,
+          358,
+          868,
+          357,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator39",
+        "polygon": [
+          277,
+          220,
+          278,
+          220,
+          278,
+          868,
+          277,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_separator40",
+        "polygon": [
+          317,
+          220,
+          318,
+          220,
+          318,
+          868,
+          317,
+          868
+        ],
+        "text": "",
+        "type": "COLUMN_SEPARATOR",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_center1",
+        "polygon": [
+          677,
+          220,
+          737,
+          220,
+          737,
+          868,
+          677,
+          868
+        ],
+        "text": "",
+        "type": "CENTER_FOLD_COLUMN",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_fishtail1",
+        "polygon": [
+          677,
+          382,
+          737,
+          382,
+          737,
+          410,
+          677,
+          410
+        ],
+        "text": "",
+        "type": "FISHTAIL_MARK",
+        "attributes": {
+          "z_index": 0
+        }
+      },
+      {
+        "node_id": "n_centertext1",
+        "polygon": [
+          689,
+          417,
+          725,
+          417,
+          725,
+          453,
+          689,
+          453
+        ],
+        "text": "水",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext2",
+        "polygon": [
+          689,
+          453,
+          725,
+          453,
+          725,
+          489,
+          689,
+          489
+        ],
+        "text": "浒",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext3",
+        "polygon": [
+          689,
+          489,
+          725,
+          489,
+          725,
+          525,
+          689,
+          525
+        ],
+        "text": "传",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext4",
+        "polygon": [
+          689,
+          525,
+          725,
+          525,
+          725,
+          561,
+          689,
+          561
+        ],
+        "text": "第",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext5",
+        "polygon": [
+          689,
+          561,
+          725,
+          561,
+          725,
+          597,
+          689,
+          597
+        ],
+        "text": "三",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext6",
+        "polygon": [
+          689,
+          597,
+          725,
+          597,
+          725,
+          633,
+          689,
+          633
+        ],
+        "text": "十",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext7",
+        "polygon": [
+          689,
+          633,
+          725,
+          633,
+          725,
+          669,
+          689,
+          669
+        ],
+        "text": "七",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_centertext8",
+        "polygon": [
+          689,
+          669,
+          725,
+          669,
+          725,
+          705,
+          689,
+          705
+        ],
+        "text": "回",
+        "type": "CENTER_FOLD_TEXT",
+        "attributes": {
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_interlinear1",
+        "polygon": [
+          1118,
+          220,
+          1136,
+          220,
+          1136,
+          238,
+          1118,
+          238
+        ],
+        "text": "妙",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24688",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation1",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main1",
+        "polygon": [
+          1099,
+          256,
+          1135,
+          256,
+          1135,
+          400,
+          1099,
+          400
+        ],
+        "text": "只脚一蹬",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24689",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation2",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear2",
+        "polygon": [
+          1118,
+          400,
+          1136,
+          400,
+          1136,
+          418,
+          1118,
+          418
+        ],
+        "text": "妙",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24690",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation3",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main2",
+        "polygon": [
+          1099,
+          436,
+          1135,
+          436,
+          1135,
+          580,
+          1099,
+          580
+        ],
+        "text": "那只渔船",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24691",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation4",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main3",
+        "polygon": [
+          1099,
+          580,
+          1135,
+          580,
+          1135,
+          868,
+          1099,
+          868
+        ],
+        "text": "箭也似投江心里去",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24691",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main4",
+        "polygon": [
+          1059,
+          220,
+          1095,
+          220,
+          1095,
+          256,
+          1059,
+          256
+        ],
+        "text": "了",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24691",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation5",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear3",
+        "polygon": [
+          1078,
+          256,
+          1096,
+          256,
+          1096,
+          274,
+          1078,
+          274
+        ],
+        "text": "妙",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24692",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation6",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main5",
+        "polygon": [
+          1059,
+          292,
+          1095,
+          292,
+          1095,
+          580,
+          1059,
+          580
+        ],
+        "text": "李逵虽然也识得水",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24693",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation7",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear4",
+        "polygon": [
+          1058,
+          580,
+          1096,
+          580,
+          1096,
+          706,
+          1058,
+          706
+        ],
+        "text": "掇衬一句李逵识水",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24694",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation8",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear5",
+        "polygon": [
+          1058,
+          598,
+          1076,
+          598,
+          1076,
+          706,
+          1058,
+          706
+        ],
+        "text": "为后文不死地",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24694",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation9",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main6",
+        "polygon": [
+          1059,
+          724,
+          1095,
+          724,
+          1095,
+          868,
+          1059,
+          868
+        ],
+        "text": "苦不甚高",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24695",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation10",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main7",
+        "polygon": [
+          1019,
+          220,
+          1055,
+          220,
+          1055,
+          436,
+          1019,
+          436
+        ],
+        "text": "当时慌了手脚",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24695",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation11",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main8",
+        "polygon": [
+          1019,
+          436,
+          1055,
+          436,
+          1055,
+          652,
+          1019,
+          652
+        ],
+        "text": "那人更不叫骂",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24696",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation12",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main9",
+        "polygon": [
+          1019,
+          652,
+          1055,
+          652,
+          1055,
+          796,
+          1019,
+          796
+        ],
+        "text": "撇了竹篙",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24696",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation13",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main10",
+        "polygon": [
+          1019,
+          796,
+          1055,
+          796,
+          1055,
+          868,
+          1019,
+          868
+        ],
+        "text": "叫声",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24696",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main11",
+        "polygon": [
+          979,
+          220,
+          1015,
+          220,
+          1015,
+          292,
+          979,
+          292
+        ],
+        "text": "你来",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24696",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation14",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main12",
+        "polygon": [
+          979,
+          292,
+          1015,
+          292,
+          1015,
+          652,
+          979,
+          652
+        ],
+        "text": "今番和你定要见个输嬴",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24697",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation15",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main13",
+        "polygon": [
+          979,
+          652,
+          1015,
+          652,
+          1015,
+          868,
+          979,
+          868
+        ],
+        "text": "便把李逵搭膊",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24698",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main14",
+        "polygon": [
+          939,
+          220,
+          975,
+          220,
+          975,
+          292,
+          939,
+          292
+        ],
+        "text": "拿住",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24698",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation16",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main15",
+        "polygon": [
+          939,
+          292,
+          975,
+          292,
+          975,
+          436,
+          939,
+          436
+        ],
+        "text": "口里说道",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24698",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation17",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "：",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main16",
+        "polygon": [
+          939,
+          436,
+          975,
+          436,
+          975,
+          652,
+          939,
+          652
+        ],
+        "text": "且不和你厮打",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24698",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation18",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main17",
+        "polygon": [
+          939,
+          652,
+          975,
+          652,
+          975,
+          868,
+          939,
+          868
+        ],
+        "text": "先教你吃些水",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24698",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation19",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main18",
+        "polygon": [
+          899,
+          220,
+          935,
+          220,
+          935,
+          508,
+          899,
+          508
+        ],
+        "text": "两只脚把船只一晃",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24699",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation20",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main19",
+        "polygon": [
+          899,
+          508,
+          935,
+          508,
+          935,
+          652,
+          899,
+          652
+        ],
+        "text": "船底朝天",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24699",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation21",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main20",
+        "polygon": [
+          899,
+          652,
+          935,
+          652,
+          935,
+          796,
+          899,
+          796
+        ],
+        "text": "英雄落水",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24699",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation22",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear6",
+        "polygon": [
+          898,
+          796,
+          936,
+          796,
+          936,
+          832,
+          898,
+          832
+        ],
+        "text": "绝妙好辞",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24700",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation23",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main21",
+        "polygon": [
+          899,
+          832,
+          935,
+          832,
+          935,
+          868,
+          899,
+          868
+        ],
+        "text": "两",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24701",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main22",
+        "polygon": [
+          859,
+          220,
+          895,
+          220,
+          895,
+          760,
+          859,
+          760
+        ],
+        "text": "个好汉扑通地都翻筋斗撞下江里去",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24701",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation24",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main23",
+        "polygon": [
+          859,
+          760,
+          895,
+          760,
+          895,
+          832,
+          859,
+          832
+        ],
+        "text": "宋江",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24702",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation25",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main24",
+        "polygon": [
+          859,
+          832,
+          895,
+          832,
+          895,
+          868,
+          859,
+          868
+        ],
+        "text": "戴",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24702",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main25",
+        "polygon": [
+          819,
+          220,
+          855,
+          220,
+          855,
+          256,
+          819,
+          256
+        ],
+        "text": "宗",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24702",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation26",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main26",
+        "polygon": [
+          819,
+          256,
+          855,
+          256,
+          855,
+          436,
+          819,
+          436
+        ],
+        "text": "急赶至岸边",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24702",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation27",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main27",
+        "polygon": [
+          819,
+          436,
+          855,
+          436,
+          855,
+          724,
+          819,
+          724
+        ],
+        "text": "那只船已翻在江里",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24702",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation28",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main28",
+        "polygon": [
+          819,
+          724,
+          855,
+          724,
+          855,
+          868,
+          819,
+          868
+        ],
+        "text": "两个只在",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24703",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main29",
+        "polygon": [
+          779,
+          220,
+          815,
+          220,
+          815,
+          364,
+          779,
+          364
+        ],
+        "text": "岸上叫苦",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24703",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation29",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear7",
+        "polygon": [
+          778,
+          364,
+          816,
+          364,
+          816,
+          400,
+          778,
+          400
+        ],
+        "text": "画二人",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24704",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation30",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main30",
+        "polygon": [
+          779,
+          400,
+          815,
+          400,
+          815,
+          868,
+          779,
+          868
+        ],
+        "text": "江岸边早拥上三五百人在柳阴",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24705",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main31",
+        "polygon": [
+          739,
+          220,
+          775,
+          220,
+          775,
+          328,
+          739,
+          328
+        ],
+        "text": "底下看",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24705",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation31",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "；",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear8",
+        "polygon": [
+          738,
+          328,
+          776,
+          328,
+          776,
+          382,
+          738,
+          382
+        ],
+        "text": "画三五百人",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24706",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation32",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main32",
+        "polygon": [
+          739,
+          400,
+          775,
+          400,
+          775,
+          472,
+          739,
+          472
+        ],
+        "text": "都道",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24707",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation33",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "：",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main33",
+        "polygon": [
+          739,
+          472,
+          775,
+          472,
+          775,
+          832,
+          739,
+          832
+        ],
+        "text": "这黑大汉今番却著道儿",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24707",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation34",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main34",
+        "polygon": [
+          739,
+          832,
+          775,
+          832,
+          775,
+          868,
+          739,
+          868
+        ],
+        "text": "便",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24708",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main35",
+        "polygon": [
+          639,
+          220,
+          675,
+          220,
+          675,
+          400,
+          639,
+          400
+        ],
+        "text": "挣扎得性命",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24708",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation35",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main36",
+        "polygon": [
+          639,
+          400,
+          675,
+          400,
+          675,
+          652,
+          639,
+          652
+        ],
+        "text": "也吃了一肚皮水",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24709",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation36",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main37",
+        "polygon": [
+          639,
+          652,
+          675,
+          652,
+          675,
+          724,
+          639,
+          724
+        ],
+        "text": "宋江",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation37",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main38",
+        "polygon": [
+          639,
+          724,
+          675,
+          724,
+          675,
+          796,
+          639,
+          796
+        ],
+        "text": "戴宗",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation38",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main39",
+        "polygon": [
+          639,
+          796,
+          675,
+          796,
+          675,
+          868,
+          639,
+          868
+        ],
+        "text": "在岸",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main40",
+        "polygon": [
+          599,
+          220,
+          635,
+          220,
+          635,
+          328,
+          599,
+          328
+        ],
+        "text": "边看时",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation39",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main41",
+        "polygon": [
+          599,
+          328,
+          635,
+          328,
+          635,
+          544,
+          599,
+          544
+        ],
+        "text": "只见江面开处",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation40",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main42",
+        "polygon": [
+          599,
+          544,
+          635,
+          544,
+          635,
+          868,
+          599,
+          868
+        ],
+        "text": "那人把李逵提将起来",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation41",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main43",
+        "polygon": [
+          559,
+          220,
+          595,
+          220,
+          595,
+          400,
+          559,
+          400
+        ],
+        "text": "又淹将下去",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24710",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation42",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "；",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear9",
+        "polygon": [
+          558,
+          400,
+          596,
+          400,
+          596,
+          418,
+          558,
+          418
+        ],
+        "text": "奇文",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24711",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation43",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main44",
+        "polygon": [
+          559,
+          436,
+          595,
+          436,
+          595,
+          724,
+          559,
+          724
+        ],
+        "text": "两个正在江心里面",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24712",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation44",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main45",
+        "polygon": [
+          559,
+          724,
+          595,
+          724,
+          595,
+          868,
+          559,
+          868
+        ],
+        "text": "清波碧浪",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24712",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main46",
+        "polygon": [
+          519,
+          220,
+          555,
+          220,
+          555,
+          292,
+          519,
+          292
+        ],
+        "text": "中间",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24712",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation45",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "；",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main47",
+        "polygon": [
+          519,
+          292,
+          555,
+          292,
+          555,
+          544,
+          519,
+          544
+        ],
+        "text": "一个显浑身黑肉",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24712",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation46",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main48",
+        "polygon": [
+          519,
+          544,
+          555,
+          544,
+          555,
+          796,
+          519,
+          796
+        ],
+        "text": "一个露遍体霜肤",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24712",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation47",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "；",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear10",
+        "polygon": [
+          538,
+          796,
+          556,
+          796,
+          556,
+          868,
+          538,
+          868
+        ],
+        "text": "绝妙好辞",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24713",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation48",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear11",
+        "polygon": [
+          518,
+          796,
+          536,
+          796,
+          536,
+          868,
+          518,
+          868
+        ],
+        "text": "青波碧浪",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24714",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation49",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear12",
+        "polygon": [
+          498,
+          220,
+          516,
+          220,
+          516,
+          292,
+          498,
+          292
+        ],
+        "text": "黑肉白肤",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24715",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation50",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear13",
+        "polygon": [
+          478,
+          220,
+          516,
+          220,
+          516,
+          328,
+          478,
+          328
+        ],
+        "text": "斐然成章",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24715",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation51",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear14",
+        "polygon": [
+          478,
+          256,
+          496,
+          256,
+          496,
+          328,
+          478,
+          328
+        ],
+        "text": "照笔耀纸",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24715",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation52",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main49",
+        "polygon": [
+          479,
+          328,
+          515,
+          328,
+          515,
+          544,
+          479,
+          544
+        ],
+        "text": "两个打做一团",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24716",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation53",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main50",
+        "polygon": [
+          479,
+          544,
+          515,
+          544,
+          515,
+          688,
+          479,
+          688
+        ],
+        "text": "绞做一块",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24716",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation54",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main51",
+        "polygon": [
+          479,
+          688,
+          515,
+          688,
+          515,
+          868,
+          479,
+          868
+        ],
+        "text": "江岸上那三",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24717",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main52",
+        "polygon": [
+          439,
+          220,
+          475,
+          220,
+          475,
+          544,
+          439,
+          544
+        ],
+        "text": "五百人没一个不喝采",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24717",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation55",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear15",
+        "polygon": [
+          458,
+          544,
+          476,
+          544,
+          476,
+          688,
+          458,
+          688
+        ],
+        "text": "每见人看火发喝采",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24718",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation56",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear16",
+        "polygon": [
+          458,
+          688,
+          476,
+          688,
+          476,
+          778,
+          458,
+          778
+        ],
+        "text": "看杖责喝采",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24718",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation57",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear17",
+        "polygon": [
+          458,
+          778,
+          476,
+          778,
+          476,
+          868,
+          458,
+          868
+        ],
+        "text": "看厮打喝采",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24718",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation58",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear18",
+        "polygon": [
+          438,
+          544,
+          456,
+          544,
+          456,
+          580,
+          438,
+          580
+        ],
+        "text": "嗟乎",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24718",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation59",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear19",
+        "polygon": [
+          438,
+          580,
+          456,
+          580,
+          456,
+          652,
+          438,
+          652
+        ],
+        "text": "人之无良",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24719",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation60",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear20",
+        "polygon": [
+          438,
+          652,
+          456,
+          652,
+          456,
+          724,
+          438,
+          724
+        ],
+        "text": "一至于此",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24719",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation61",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "！",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear21",
+        "polygon": [
+          438,
+          724,
+          456,
+          724,
+          456,
+          850,
+          438,
+          850
+        ],
+        "text": "愿后之读至此者",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24720",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation62",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear22",
+        "polygon": [
+          438,
+          850,
+          456,
+          850,
+          456,
+          868,
+          438,
+          868
+        ],
+        "text": "其",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24720",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_interlinear23",
+        "polygon": [
+          398,
+          220,
+          436,
+          220,
+          436,
+          256,
+          398,
+          256
+        ],
+        "text": "一念之也",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24720",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation63",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main53",
+        "polygon": [
+          399,
+          256,
+          435,
+          256,
+          435,
+          400,
+          399,
+          400
+        ],
+        "text": "当时宋江",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation64",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main54",
+        "polygon": [
+          399,
+          400,
+          435,
+          400,
+          435,
+          472,
+          399,
+          472
+        ],
+        "text": "戴宗",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation65",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main55",
+        "polygon": [
+          399,
+          472,
+          435,
+          472,
+          435,
+          868,
+          399,
+          868
+        ],
+        "text": "看见李逵被那人在水里揪",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main56",
+        "polygon": [
+          359,
+          220,
+          395,
+          220,
+          395,
+          256,
+          359,
+          256
+        ],
+        "text": "住",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation66",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main57",
+        "polygon": [
+          359,
+          256,
+          395,
+          256,
+          395,
+          400,
+          359,
+          400
+        ],
+        "text": "浸得眼白",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation67",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main58",
+        "polygon": [
+          359,
+          400,
+          395,
+          400,
+          395,
+          544,
+          359,
+          544
+        ],
+        "text": "又提起来",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation68",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main59",
+        "polygon": [
+          359,
+          544,
+          395,
+          544,
+          395,
+          688,
+          359,
+          688
+        ],
+        "text": "又纳下去",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation69",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main60",
+        "polygon": [
+          359,
+          688,
+          395,
+          688,
+          395,
+          832,
+          359,
+          832
+        ],
+        "text": "老大吃亏",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24721",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation70",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear24",
+        "polygon": [
+          358,
+          832,
+          396,
+          832,
+          396,
+          868,
+          358,
+          868
+        ],
+        "text": "铁牛遂作",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24722",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_interlinear25",
+        "polygon": [
+          338,
+          220,
+          356,
+          220,
+          356,
+          256,
+          338,
+          256
+        ],
+        "text": "水牛",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24722",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation71",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "，",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear26",
+        "polygon": [
+          318,
+          220,
+          356,
+          220,
+          356,
+          274,
+          318,
+          274
+        ],
+        "text": "奇文绝倒",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24722",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation72",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main61",
+        "polygon": [
+          319,
+          292,
+          355,
+          292,
+          355,
+          580,
+          319,
+          580
+        ],
+        "text": "便叫戴宗央人去救",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24723",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation73",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main62",
+        "polygon": [
+          319,
+          580,
+          355,
+          580,
+          355,
+          796,
+          319,
+          796
+        ],
+        "text": "戴宗问众人道",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24724",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation74",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "：",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main63",
+        "polygon": [
+          319,
+          796,
+          355,
+          796,
+          355,
+          868,
+          319,
+          868
+        ],
+        "text": "这白",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24724",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_main64",
+        "polygon": [
+          279,
+          220,
+          315,
+          220,
+          315,
+          364,
+          279,
+          364
+        ],
+        "text": "大汉是谁",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24724",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation75",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "？",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_interlinear27",
+        "polygon": [
+          278,
+          364,
+          316,
+          364,
+          316,
+          400,
+          278,
+          400
+        ],
+        "text": "渐引而下",
+        "type": "INTERLINEAR_ANNOTATION",
+        "attributes": {
+          "group_id": "G_clap24725",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation76",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "。",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main65",
+        "polygon": [
+          279,
+          400,
+          315,
+          400,
+          315,
+          616,
+          279,
+          616
+        ],
+        "text": "有认得的说道",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24726",
+          "z_index": 1
+        }
+      },
+      {
+        "node_id": "n_punctuation77",
+        "polygon": [
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0,
+          0
+        ],
+        "text": "：",
+        "type": "PUNCTUATION_MARK",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_main66",
+        "polygon": [
+          279,
+          616,
+          315,
+          616,
+          315,
+          868,
+          279,
+          868
+        ],
+        "text": "这个好汉便是本",
+        "type": "MAIN_TEXT",
+        "attributes": {
+          "group_id": "G_main24726",
+          "z_index": 1
+        }
+      }
+    ],
+    "edges": [
+      {
+        "source": "n_interlinear1",
+        "target": "n_separator1",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear1",
+        "target": "n_separator2",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear1",
+        "target": "n_punctuation1",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main1",
+        "target": "n_separator1",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main1",
+        "target": "n_separator2",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main1",
+        "target": "n_punctuation2",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear2",
+        "target": "n_separator1",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear2",
+        "target": "n_separator2",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear2",
+        "target": "n_punctuation3",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main2",
+        "target": "n_separator1",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main2",
+        "target": "n_separator2",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main2",
+        "target": "n_punctuation4",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main3",
+        "target": "n_separator1",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main3",
+        "target": "n_separator2",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main4",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main4",
+        "target": "n_separator4",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main4",
+        "target": "n_punctuation5",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear3",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear3",
+        "target": "n_separator4",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear3",
+        "target": "n_punctuation6",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main5",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main5",
+        "target": "n_separator4",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main5",
+        "target": "n_punctuation7",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear4",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear4",
+        "target": "n_separator4",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear4",
+        "target": "n_punctuation8",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear5",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear5",
+        "target": "n_separator4",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear5",
+        "target": "n_punctuation9",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main6",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main6",
+        "target": "n_separator4",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main6",
+        "target": "n_punctuation10",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main7",
+        "target": "n_separator5",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main7",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main7",
+        "target": "n_punctuation11",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main8",
+        "target": "n_separator5",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main8",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main8",
+        "target": "n_punctuation12",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main9",
+        "target": "n_separator5",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main9",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main9",
+        "target": "n_punctuation13",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main10",
+        "target": "n_separator5",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main10",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main11",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main11",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main11",
+        "target": "n_punctuation14",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main12",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main12",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main12",
+        "target": "n_punctuation15",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main13",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main13",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main14",
+        "target": "n_separator9",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main14",
+        "target": "n_separator10",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main14",
+        "target": "n_punctuation16",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main15",
+        "target": "n_separator9",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main15",
+        "target": "n_separator10",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main15",
+        "target": "n_punctuation17",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main16",
+        "target": "n_separator9",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main16",
+        "target": "n_separator10",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main16",
+        "target": "n_punctuation18",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main17",
+        "target": "n_separator9",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main17",
+        "target": "n_separator10",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main17",
+        "target": "n_punctuation19",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main18",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main18",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main18",
+        "target": "n_punctuation20",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main19",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main19",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main19",
+        "target": "n_punctuation21",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main20",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main20",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main20",
+        "target": "n_punctuation22",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear6",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear6",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear6",
+        "target": "n_punctuation23",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main21",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main21",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main22",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main22",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main22",
+        "target": "n_punctuation24",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main23",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main23",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main23",
+        "target": "n_punctuation25",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main24",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main24",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main25",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main25",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main25",
+        "target": "n_punctuation26",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main26",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main26",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main26",
+        "target": "n_punctuation27",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main27",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main27",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main27",
+        "target": "n_punctuation28",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main28",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main28",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main29",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main29",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main29",
+        "target": "n_punctuation29",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear7",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear7",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear7",
+        "target": "n_punctuation30",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main30",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main30",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main31",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main31",
+        "target": "n_separator20",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main31",
+        "target": "n_punctuation31",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear8",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear8",
+        "target": "n_separator20",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear8",
+        "target": "n_punctuation32",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main32",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main32",
+        "target": "n_separator20",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main32",
+        "target": "n_punctuation33",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main33",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main33",
+        "target": "n_separator20",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main33",
+        "target": "n_punctuation34",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main34",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main34",
+        "target": "n_separator20",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main35",
+        "target": "n_separator21",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main35",
+        "target": "n_separator22",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main35",
+        "target": "n_punctuation35",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main36",
+        "target": "n_separator21",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main36",
+        "target": "n_separator22",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main36",
+        "target": "n_punctuation36",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main37",
+        "target": "n_separator21",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main37",
+        "target": "n_separator22",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main37",
+        "target": "n_punctuation37",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main38",
+        "target": "n_separator21",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main38",
+        "target": "n_separator22",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main38",
+        "target": "n_punctuation38",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main39",
+        "target": "n_separator21",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main39",
+        "target": "n_separator22",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main40",
+        "target": "n_separator23",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main40",
+        "target": "n_separator24",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main40",
+        "target": "n_punctuation39",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main41",
+        "target": "n_separator23",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main41",
+        "target": "n_separator24",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main41",
+        "target": "n_punctuation40",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main42",
+        "target": "n_separator23",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main42",
+        "target": "n_separator24",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main42",
+        "target": "n_punctuation41",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main43",
+        "target": "n_separator25",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main43",
+        "target": "n_separator26",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main43",
+        "target": "n_punctuation42",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear9",
+        "target": "n_separator25",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear9",
+        "target": "n_separator26",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear9",
+        "target": "n_punctuation43",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main44",
+        "target": "n_separator25",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main44",
+        "target": "n_separator26",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main44",
+        "target": "n_punctuation44",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main45",
+        "target": "n_separator25",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main45",
+        "target": "n_separator26",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main46",
+        "target": "n_separator27",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main46",
+        "target": "n_separator28",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main46",
+        "target": "n_punctuation45",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main47",
+        "target": "n_separator27",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main47",
+        "target": "n_separator28",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main47",
+        "target": "n_punctuation46",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main48",
+        "target": "n_separator27",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main48",
+        "target": "n_separator28",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main48",
+        "target": "n_punctuation47",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear10",
+        "target": "n_separator27",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear10",
+        "target": "n_separator28",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear10",
+        "target": "n_punctuation48",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear11",
+        "target": "n_separator27",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear11",
+        "target": "n_separator28",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear11",
+        "target": "n_punctuation49",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear12",
+        "target": "n_separator29",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear12",
+        "target": "n_separator30",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear12",
+        "target": "n_punctuation50",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear13",
+        "target": "n_separator29",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear13",
+        "target": "n_separator30",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear13",
+        "target": "n_punctuation51",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear14",
+        "target": "n_separator29",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear14",
+        "target": "n_separator30",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear14",
+        "target": "n_punctuation52",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main49",
+        "target": "n_separator29",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main49",
+        "target": "n_separator30",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main49",
+        "target": "n_punctuation53",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main50",
+        "target": "n_separator29",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main50",
+        "target": "n_separator30",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main50",
+        "target": "n_punctuation54",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main51",
+        "target": "n_separator29",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main51",
+        "target": "n_separator30",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main52",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main52",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main52",
+        "target": "n_punctuation55",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear15",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear15",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear15",
+        "target": "n_punctuation56",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear16",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear16",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear16",
+        "target": "n_punctuation57",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear17",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear17",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear17",
+        "target": "n_punctuation58",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear18",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear18",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear18",
+        "target": "n_punctuation59",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear19",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear19",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear19",
+        "target": "n_punctuation60",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear20",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear20",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear20",
+        "target": "n_punctuation61",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear21",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear21",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear21",
+        "target": "n_punctuation62",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear22",
+        "target": "n_separator31",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear22",
+        "target": "n_separator32",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear23",
+        "target": "n_separator33",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear23",
+        "target": "n_separator34",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear23",
+        "target": "n_punctuation63",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main53",
+        "target": "n_separator33",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main53",
+        "target": "n_separator34",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main53",
+        "target": "n_punctuation64",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main54",
+        "target": "n_separator33",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main54",
+        "target": "n_separator34",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main54",
+        "target": "n_punctuation65",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main55",
+        "target": "n_separator33",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main55",
+        "target": "n_separator34",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main56",
+        "target": "n_separator35",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main56",
+        "target": "n_separator36",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main56",
+        "target": "n_punctuation66",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main57",
+        "target": "n_separator35",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main57",
+        "target": "n_separator36",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main57",
+        "target": "n_punctuation67",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main58",
+        "target": "n_separator35",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main58",
+        "target": "n_separator36",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main58",
+        "target": "n_punctuation68",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main59",
+        "target": "n_separator35",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main59",
+        "target": "n_separator36",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main59",
+        "target": "n_punctuation69",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main60",
+        "target": "n_separator35",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main60",
+        "target": "n_separator36",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main60",
+        "target": "n_punctuation70",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear24",
+        "target": "n_separator35",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear24",
+        "target": "n_separator36",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear25",
+        "target": "n_separator37",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear25",
+        "target": "n_separator38",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear25",
+        "target": "n_punctuation71",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear26",
+        "target": "n_separator37",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear26",
+        "target": "n_separator38",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear26",
+        "target": "n_punctuation72",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main61",
+        "target": "n_separator37",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main61",
+        "target": "n_separator38",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main61",
+        "target": "n_punctuation73",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main62",
+        "target": "n_separator37",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main62",
+        "target": "n_separator38",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main62",
+        "target": "n_punctuation74",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main63",
+        "target": "n_separator37",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main63",
+        "target": "n_separator38",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main64",
+        "target": "n_separator39",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main64",
+        "target": "n_separator40",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main64",
+        "target": "n_punctuation75",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_interlinear27",
+        "target": "n_separator39",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear27",
+        "target": "n_separator40",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear27",
+        "target": "n_punctuation76",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main65",
+        "target": "n_separator39",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main65",
+        "target": "n_separator40",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main65",
+        "target": "n_punctuation77",
+        "type": "TERMINATES_AT"
+      },
+      {
+        "source": "n_main66",
+        "target": "n_separator39",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main66",
+        "target": "n_separator40",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear1",
+        "target": "n_main1",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main1",
+        "target": "n_interlinear2",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear2",
+        "target": "n_main2",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main2",
+        "target": "n_main3",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main3",
+        "target": "n_main4",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main4",
+        "target": "n_interlinear3",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear3",
+        "target": "n_main5",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main5",
+        "target": "n_interlinear4",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear4",
+        "target": "n_interlinear5",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear5",
+        "target": "n_main6",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main6",
+        "target": "n_main7",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main7",
+        "target": "n_main8",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main8",
+        "target": "n_main9",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main9",
+        "target": "n_main10",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main10",
+        "target": "n_main11",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main11",
+        "target": "n_main12",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main12",
+        "target": "n_main13",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main13",
+        "target": "n_main14",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main14",
+        "target": "n_main15",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main15",
+        "target": "n_main16",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main16",
+        "target": "n_main17",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main17",
+        "target": "n_main18",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main18",
+        "target": "n_main19",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main19",
+        "target": "n_main20",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main20",
+        "target": "n_interlinear6",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear6",
+        "target": "n_main21",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main21",
+        "target": "n_main22",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main22",
+        "target": "n_main23",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main23",
+        "target": "n_main24",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main24",
+        "target": "n_main25",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main25",
+        "target": "n_main26",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main26",
+        "target": "n_main27",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main27",
+        "target": "n_main28",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main28",
+        "target": "n_main29",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main29",
+        "target": "n_interlinear7",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear7",
+        "target": "n_main30",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main30",
+        "target": "n_main31",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main31",
+        "target": "n_interlinear8",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear8",
+        "target": "n_main32",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main32",
+        "target": "n_main33",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main33",
+        "target": "n_main34",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main34",
+        "target": "n_main35",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main35",
+        "target": "n_main36",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main36",
+        "target": "n_main37",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main37",
+        "target": "n_main38",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main38",
+        "target": "n_main39",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main39",
+        "target": "n_main40",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main40",
+        "target": "n_main41",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main41",
+        "target": "n_main42",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main42",
+        "target": "n_main43",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main43",
+        "target": "n_interlinear9",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear9",
+        "target": "n_main44",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main44",
+        "target": "n_main45",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main45",
+        "target": "n_main46",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main46",
+        "target": "n_main47",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main47",
+        "target": "n_main48",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main48",
+        "target": "n_interlinear10",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear10",
+        "target": "n_interlinear11",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear11",
+        "target": "n_interlinear12",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear12",
+        "target": "n_interlinear13",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear13",
+        "target": "n_interlinear14",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear14",
+        "target": "n_main49",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main49",
+        "target": "n_main50",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main50",
+        "target": "n_main51",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main51",
+        "target": "n_main52",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main52",
+        "target": "n_interlinear15",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear15",
+        "target": "n_interlinear16",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear16",
+        "target": "n_interlinear17",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear17",
+        "target": "n_interlinear18",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear18",
+        "target": "n_interlinear19",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear19",
+        "target": "n_interlinear20",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear20",
+        "target": "n_interlinear21",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear21",
+        "target": "n_interlinear22",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear22",
+        "target": "n_interlinear23",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear23",
+        "target": "n_main53",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main53",
+        "target": "n_main54",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main54",
+        "target": "n_main55",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main55",
+        "target": "n_main56",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main56",
+        "target": "n_main57",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main57",
+        "target": "n_main58",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main58",
+        "target": "n_main59",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main59",
+        "target": "n_main60",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main60",
+        "target": "n_interlinear24",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear24",
+        "target": "n_interlinear25",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear25",
+        "target": "n_interlinear26",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear26",
+        "target": "n_main61",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main61",
+        "target": "n_main62",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main62",
+        "target": "n_main63",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main63",
+        "target": "n_main64",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main64",
+        "target": "n_interlinear27",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_interlinear27",
+        "target": "n_main65",
+        "type": "READS_AFTER"
+      },
+      {
+        "source": "n_main65",
+        "target": "n_main66",
+        "type": "READS_AFTER"
+      }
+    ]
+  }
+}
