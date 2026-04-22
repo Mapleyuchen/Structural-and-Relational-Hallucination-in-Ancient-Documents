@@ -1,6 +1,8 @@
 {
   "image_id": "iso_v14_8_p0007",
-  "adversarial_scenario": "NORMAL",
+  "adversarial_scenario": [
+    "SEAL_MASKING_OMISSION"
+  ],
   "metadata": {
     "width": 1414,
     "height": 1000
@@ -945,24 +947,6 @@
         }
       },
       {
-        "node_id": "n_punctuation1",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main2",
         "polygon": [
           1099,
@@ -979,24 +963,6 @@
         "attributes": {
           "group_id": "G_main17535",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation2",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1019,24 +985,6 @@
         }
       },
       {
-        "node_id": "n_punctuation3",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main4",
         "polygon": [
           1099,
@@ -1053,24 +1001,6 @@
         "attributes": {
           "group_id": "G_main17536",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation4",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "：",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1112,24 +1042,6 @@
         }
       },
       {
-        "node_id": "n_punctuation5",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main7",
         "polygon": [
           1059,
@@ -1146,24 +1058,6 @@
         "attributes": {
           "group_id": "G_main17536",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation6",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1186,24 +1080,6 @@
         }
       },
       {
-        "node_id": "n_punctuation7",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear2",
         "polygon": [
           1018,
@@ -1220,24 +1096,6 @@
         "attributes": {
           "group_id": "G_clap17537",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation8",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1260,24 +1118,6 @@
         }
       },
       {
-        "node_id": "n_punctuation9",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main9",
         "polygon": [
           1019,
@@ -1294,24 +1134,6 @@
         "attributes": {
           "group_id": "G_main17538",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation10",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1353,24 +1175,6 @@
         }
       },
       {
-        "node_id": "n_punctuation11",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main12",
         "polygon": [
           979,
@@ -1387,24 +1191,6 @@
         "attributes": {
           "group_id": "G_main17540",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation12",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1446,24 +1232,6 @@
         }
       },
       {
-        "node_id": "n_punctuation13",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main15",
         "polygon": [
           939,
@@ -1480,24 +1248,6 @@
         "attributes": {
           "group_id": "G_main17540",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation14",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1520,24 +1270,6 @@
         }
       },
       {
-        "node_id": "n_punctuation15",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear4",
         "polygon": [
           938,
@@ -1554,24 +1286,6 @@
         "attributes": {
           "group_id": "G_clap17541",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation16",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1594,24 +1308,6 @@
         }
       },
       {
-        "node_id": "n_punctuation17",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear6",
         "polygon": [
           938,
@@ -1631,24 +1327,6 @@
         }
       },
       {
-        "node_id": "n_punctuation18",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear7",
         "polygon": [
           938,
@@ -1665,24 +1343,6 @@
         "attributes": {
           "group_id": "G_clap17541",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation19",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1724,24 +1384,6 @@
         }
       },
       {
-        "node_id": "n_punctuation20",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear10",
         "polygon": [
           898,
@@ -1758,24 +1400,6 @@
         "attributes": {
           "group_id": "G_clap17541",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation21",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1798,24 +1422,6 @@
         }
       },
       {
-        "node_id": "n_punctuation22",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear12",
         "polygon": [
           898,
@@ -1832,24 +1438,6 @@
         "attributes": {
           "group_id": "G_clap17542",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation23",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1872,24 +1460,6 @@
         }
       },
       {
-        "node_id": "n_punctuation24",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main17",
         "polygon": [
           899,
@@ -1906,24 +1476,6 @@
         "attributes": {
           "group_id": "G_main17544",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation25",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1965,24 +1517,6 @@
         }
       },
       {
-        "node_id": "n_punctuation26",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main20",
         "polygon": [
           859,
@@ -2002,24 +1536,6 @@
         }
       },
       {
-        "node_id": "n_punctuation27",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main21",
         "polygon": [
           859,
@@ -2036,24 +1552,6 @@
         "attributes": {
           "group_id": "G_main17544",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation28",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2095,24 +1593,6 @@
         }
       },
       {
-        "node_id": "n_punctuation29",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear13",
         "polygon": [
           838,
@@ -2129,24 +1609,6 @@
         "attributes": {
           "group_id": "G_clap17546",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation30",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2169,24 +1631,6 @@
         }
       },
       {
-        "node_id": "n_punctuation31",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear15",
         "polygon": [
           818,
@@ -2203,24 +1647,6 @@
         "attributes": {
           "group_id": "G_clap17546",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation32",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2243,24 +1669,6 @@
         }
       },
       {
-        "node_id": "n_punctuation33",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear17",
         "polygon": [
           818,
@@ -2277,24 +1685,6 @@
         "attributes": {
           "group_id": "G_clap17546",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation34",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2317,24 +1707,6 @@
         }
       },
       {
-        "node_id": "n_punctuation35",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear19",
         "polygon": [
           778,
@@ -2351,24 +1723,6 @@
         "attributes": {
           "group_id": "G_clap17547",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation36",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2391,24 +1745,6 @@
         }
       },
       {
-        "node_id": "n_punctuation37",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main24",
         "polygon": [
           779,
@@ -2428,24 +1764,6 @@
         }
       },
       {
-        "node_id": "n_punctuation38",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main25",
         "polygon": [
           779,
@@ -2462,24 +1780,6 @@
         "attributes": {
           "group_id": "G_main17548",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation39",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2521,24 +1821,6 @@
         }
       },
       {
-        "node_id": "n_punctuation40",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear23",
         "polygon": [
           738,
@@ -2555,24 +1837,6 @@
         "attributes": {
           "group_id": "G_clap17550",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation41",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2595,24 +1859,6 @@
         }
       },
       {
-        "node_id": "n_punctuation42",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main27",
         "polygon": [
           739,
@@ -2632,24 +1878,6 @@
         }
       },
       {
-        "node_id": "n_punctuation43",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear24",
         "polygon": [
           738,
@@ -2666,24 +1894,6 @@
         "attributes": {
           "group_id": "G_clap17552",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation44",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2725,24 +1935,6 @@
         }
       },
       {
-        "node_id": "n_punctuation45",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main28",
         "polygon": [
           639,
@@ -2762,24 +1954,6 @@
         }
       },
       {
-        "node_id": "n_punctuation46",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main29",
         "polygon": [
           639,
@@ -2796,24 +1970,6 @@
         "attributes": {
           "group_id": "G_main17554",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation47",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2855,24 +2011,6 @@
         }
       },
       {
-        "node_id": "n_punctuation48",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main32",
         "polygon": [
           599,
@@ -2889,24 +2027,6 @@
         "attributes": {
           "group_id": "G_main17554",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation49",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2929,24 +2049,6 @@
         }
       },
       {
-        "node_id": "n_punctuation50",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear28",
         "polygon": [
           598,
@@ -2966,24 +2068,6 @@
         }
       },
       {
-        "node_id": "n_punctuation51",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear29",
         "polygon": [
           598,
@@ -3000,24 +2084,6 @@
         "attributes": {
           "group_id": "G_clap17555",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation52",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3059,24 +2125,6 @@
         }
       },
       {
-        "node_id": "n_punctuation53",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main35",
         "polygon": [
           559,
@@ -3093,24 +2141,6 @@
         "attributes": {
           "group_id": "G_main17556",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation54",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3133,24 +2163,6 @@
         }
       },
       {
-        "node_id": "n_punctuation55",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear31",
         "polygon": [
           538,
@@ -3167,24 +2179,6 @@
         "attributes": {
           "group_id": "G_clap17557",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation56",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3207,24 +2201,6 @@
         }
       },
       {
-        "node_id": "n_punctuation57",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear33",
         "polygon": [
           538,
@@ -3241,24 +2217,6 @@
         "attributes": {
           "group_id": "G_clap17557",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation58",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3281,24 +2239,6 @@
         }
       },
       {
-        "node_id": "n_punctuation59",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear35",
         "polygon": [
           518,
@@ -3315,24 +2255,6 @@
         "attributes": {
           "group_id": "G_clap17558",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation60",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3355,24 +2277,6 @@
         }
       },
       {
-        "node_id": "n_punctuation61",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear37",
         "polygon": [
           518,
@@ -3389,24 +2293,6 @@
         "attributes": {
           "group_id": "G_clap17558",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation62",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3448,24 +2334,6 @@
         }
       },
       {
-        "node_id": "n_punctuation63",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main38",
         "polygon": [
           479,
@@ -3482,24 +2350,6 @@
         "attributes": {
           "group_id": "G_main17559",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation64",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3560,24 +2410,6 @@
         }
       },
       {
-        "node_id": "n_punctuation65",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main41",
         "polygon": [
           439,
@@ -3594,24 +2426,6 @@
         "attributes": {
           "group_id": "G_main17562",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation66",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3672,24 +2486,6 @@
         }
       },
       {
-        "node_id": "n_punctuation67",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear40",
         "polygon": [
           418,
@@ -3706,24 +2502,6 @@
         "attributes": {
           "group_id": "G_clap17564",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation68",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3746,24 +2524,6 @@
         }
       },
       {
-        "node_id": "n_punctuation69",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear42",
         "polygon": [
           418,
@@ -3780,24 +2540,6 @@
         "attributes": {
           "group_id": "G_clap17565",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation70",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3820,24 +2562,6 @@
         }
       },
       {
-        "node_id": "n_punctuation71",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear44",
         "polygon": [
           398,
@@ -3854,24 +2578,6 @@
         "attributes": {
           "group_id": "G_clap17566",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation72",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3894,24 +2600,6 @@
         }
       },
       {
-        "node_id": "n_punctuation73",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear46",
         "polygon": [
           398,
@@ -3928,24 +2616,6 @@
         "attributes": {
           "group_id": "G_clap17566",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation74",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "？",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3987,24 +2657,6 @@
         }
       },
       {
-        "node_id": "n_punctuation75",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear49",
         "polygon": [
           378,
@@ -4021,24 +2673,6 @@
         "attributes": {
           "group_id": "G_clap17567",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation76",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4061,24 +2695,6 @@
         }
       },
       {
-        "node_id": "n_punctuation77",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear51",
         "polygon": [
           378,
@@ -4095,24 +2711,6 @@
         "attributes": {
           "group_id": "G_clap17568",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation78",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4135,24 +2733,6 @@
         }
       },
       {
-        "node_id": "n_punctuation79",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "？",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear53",
         "polygon": [
           358,
@@ -4169,24 +2749,6 @@
         "attributes": {
           "group_id": "G_clap17569",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation80",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4209,24 +2771,6 @@
         }
       },
       {
-        "node_id": "n_punctuation81",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear55",
         "polygon": [
           358,
@@ -4243,24 +2787,6 @@
         "attributes": {
           "group_id": "G_clap17569",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation82",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4283,24 +2809,6 @@
         }
       },
       {
-        "node_id": "n_punctuation83",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear57",
         "polygon": [
           358,
@@ -4317,24 +2825,6 @@
         "attributes": {
           "group_id": "G_clap17570",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation84",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4357,24 +2847,6 @@
         }
       },
       {
-        "node_id": "n_punctuation85",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear59",
         "polygon": [
           358,
@@ -4391,24 +2863,6 @@
         "attributes": {
           "group_id": "G_clap17570",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation86",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4431,24 +2885,6 @@
         }
       },
       {
-        "node_id": "n_punctuation87",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main44",
         "polygon": [
           319,
@@ -4465,24 +2901,6 @@
         "attributes": {
           "group_id": "G_main17571",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation88",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4505,24 +2923,6 @@
         }
       },
       {
-        "node_id": "n_punctuation89",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main46",
         "polygon": [
           319,
@@ -4539,24 +2939,6 @@
         "attributes": {
           "group_id": "G_main17572",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation90",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4598,24 +2980,6 @@
         }
       },
       {
-        "node_id": "n_punctuation91",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main49",
         "polygon": [
           279,
@@ -4632,24 +2996,6 @@
         "attributes": {
           "group_id": "G_main17573",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation92",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -4672,24 +3018,6 @@
         }
       },
       {
-        "node_id": "n_punctuation93",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main51",
         "polygon": [
           279,
@@ -4707,6 +3035,24 @@
           "group_id": "G_main17574",
           "z_index": 1
         }
+      },
+      {
+        "node_id": "n_seal1",
+        "polygon": [
+          596,
+          499,
+          726,
+          499,
+          726,
+          629,
+          596,
+          629
+        ],
+        "text": "",
+        "type": "RED_SEAL_STAMP",
+        "attributes": {
+          "z_index": 3
+        }
       }
     ],
     "edges": [
@@ -4721,11 +3067,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main1",
-        "target": "n_punctuation1",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main2",
         "target": "n_separator1",
         "type": "CONFINED_WITHIN"
@@ -4734,11 +3075,6 @@
         "source": "n_main2",
         "target": "n_separator2",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main2",
-        "target": "n_punctuation2",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main3",
@@ -4751,11 +3087,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main3",
-        "target": "n_punctuation3",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main4",
         "target": "n_separator1",
         "type": "CONFINED_WITHIN"
@@ -4764,11 +3095,6 @@
         "source": "n_main4",
         "target": "n_separator2",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main4",
-        "target": "n_punctuation4",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main5",
@@ -4791,11 +3117,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main6",
-        "target": "n_punctuation5",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main7",
         "target": "n_separator3",
         "type": "CONFINED_WITHIN"
@@ -4806,11 +3127,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main7",
-        "target": "n_punctuation6",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear1",
         "target": "n_separator5",
         "type": "CONFINED_WITHIN"
@@ -4819,11 +3135,6 @@
         "source": "n_interlinear1",
         "target": "n_separator6",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear1",
-        "target": "n_punctuation7",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear2",
@@ -4836,11 +3147,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear2",
-        "target": "n_punctuation8",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main8",
         "target": "n_separator5",
         "type": "CONFINED_WITHIN"
@@ -4851,11 +3157,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main8",
-        "target": "n_punctuation9",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main9",
         "target": "n_separator5",
         "type": "CONFINED_WITHIN"
@@ -4864,11 +3165,6 @@
         "source": "n_main9",
         "target": "n_separator6",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main9",
-        "target": "n_punctuation10",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main10",
@@ -4891,11 +3187,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main11",
-        "target": "n_punctuation11",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main12",
         "target": "n_separator7",
         "type": "CONFINED_WITHIN"
@@ -4904,11 +3195,6 @@
         "source": "n_main12",
         "target": "n_separator8",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main12",
-        "target": "n_punctuation12",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main13",
@@ -4931,11 +3217,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main14",
-        "target": "n_punctuation13",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main15",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
@@ -4944,11 +3225,6 @@
         "source": "n_main15",
         "target": "n_separator10",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main15",
-        "target": "n_punctuation14",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear3",
@@ -4961,11 +3237,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear3",
-        "target": "n_punctuation15",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear4",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
@@ -4974,11 +3245,6 @@
         "source": "n_interlinear4",
         "target": "n_separator10",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear4",
-        "target": "n_punctuation16",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear5",
@@ -4991,11 +3257,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear5",
-        "target": "n_punctuation17",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear6",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
@@ -5006,11 +3267,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear6",
-        "target": "n_punctuation18",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear7",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
@@ -5019,11 +3275,6 @@
         "source": "n_interlinear7",
         "target": "n_separator10",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear7",
-        "target": "n_punctuation19",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear8",
@@ -5046,11 +3297,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear9",
-        "target": "n_punctuation20",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear10",
         "target": "n_separator11",
         "type": "CONFINED_WITHIN"
@@ -5059,11 +3305,6 @@
         "source": "n_interlinear10",
         "target": "n_separator12",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear10",
-        "target": "n_punctuation21",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear11",
@@ -5076,11 +3317,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear11",
-        "target": "n_punctuation22",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear12",
         "target": "n_separator11",
         "type": "CONFINED_WITHIN"
@@ -5089,11 +3325,6 @@
         "source": "n_interlinear12",
         "target": "n_separator12",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear12",
-        "target": "n_punctuation23",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main16",
@@ -5106,11 +3337,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main16",
-        "target": "n_punctuation24",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main17",
         "target": "n_separator11",
         "type": "CONFINED_WITHIN"
@@ -5119,11 +3345,6 @@
         "source": "n_main17",
         "target": "n_separator12",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main17",
-        "target": "n_punctuation25",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main18",
@@ -5146,11 +3367,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main19",
-        "target": "n_punctuation26",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main20",
         "target": "n_separator13",
         "type": "CONFINED_WITHIN"
@@ -5161,11 +3377,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main20",
-        "target": "n_punctuation27",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main21",
         "target": "n_separator13",
         "type": "CONFINED_WITHIN"
@@ -5174,11 +3385,6 @@
         "source": "n_main21",
         "target": "n_separator14",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main21",
-        "target": "n_punctuation28",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main22",
@@ -5201,11 +3407,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main23",
-        "target": "n_punctuation29",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear13",
         "target": "n_separator15",
         "type": "CONFINED_WITHIN"
@@ -5214,11 +3415,6 @@
         "source": "n_interlinear13",
         "target": "n_separator16",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear13",
-        "target": "n_punctuation30",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear14",
@@ -5231,11 +3427,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear14",
-        "target": "n_punctuation31",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear15",
         "target": "n_separator15",
         "type": "CONFINED_WITHIN"
@@ -5244,11 +3435,6 @@
         "source": "n_interlinear15",
         "target": "n_separator16",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear15",
-        "target": "n_punctuation32",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear16",
@@ -5261,11 +3447,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear16",
-        "target": "n_punctuation33",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear17",
         "target": "n_separator15",
         "type": "CONFINED_WITHIN"
@@ -5276,11 +3457,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear17",
-        "target": "n_punctuation34",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear18",
         "target": "n_separator17",
         "type": "CONFINED_WITHIN"
@@ -5289,11 +3465,6 @@
         "source": "n_interlinear18",
         "target": "n_separator18",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear18",
-        "target": "n_punctuation35",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear19",
@@ -5306,11 +3477,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear19",
-        "target": "n_punctuation36",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear20",
         "target": "n_separator17",
         "type": "CONFINED_WITHIN"
@@ -5319,11 +3485,6 @@
         "source": "n_interlinear20",
         "target": "n_separator18",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear20",
-        "target": "n_punctuation37",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main24",
@@ -5336,11 +3497,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main24",
-        "target": "n_punctuation38",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main25",
         "target": "n_separator17",
         "type": "CONFINED_WITHIN"
@@ -5349,11 +3505,6 @@
         "source": "n_main25",
         "target": "n_separator18",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main25",
-        "target": "n_punctuation39",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear21",
@@ -5376,11 +3527,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear22",
-        "target": "n_punctuation40",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear23",
         "target": "n_separator19",
         "type": "CONFINED_WITHIN"
@@ -5389,11 +3535,6 @@
         "source": "n_interlinear23",
         "target": "n_separator20",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear23",
-        "target": "n_punctuation41",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main26",
@@ -5406,11 +3547,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main26",
-        "target": "n_punctuation42",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main27",
         "target": "n_separator19",
         "type": "CONFINED_WITHIN"
@@ -5421,11 +3557,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main27",
-        "target": "n_punctuation43",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear24",
         "target": "n_separator19",
         "type": "CONFINED_WITHIN"
@@ -5434,11 +3565,6 @@
         "source": "n_interlinear24",
         "target": "n_separator20",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear24",
-        "target": "n_punctuation44",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear25",
@@ -5461,11 +3587,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear26",
-        "target": "n_punctuation45",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main28",
         "target": "n_separator21",
         "type": "CONFINED_WITHIN"
@@ -5476,11 +3597,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main28",
-        "target": "n_punctuation46",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main29",
         "target": "n_separator21",
         "type": "CONFINED_WITHIN"
@@ -5489,11 +3605,6 @@
         "source": "n_main29",
         "target": "n_separator22",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main29",
-        "target": "n_punctuation47",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main30",
@@ -5516,11 +3627,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main31",
-        "target": "n_punctuation48",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main32",
         "target": "n_separator23",
         "type": "CONFINED_WITHIN"
@@ -5529,11 +3635,6 @@
         "source": "n_main32",
         "target": "n_separator24",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main32",
-        "target": "n_punctuation49",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear27",
@@ -5546,11 +3647,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear27",
-        "target": "n_punctuation50",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear28",
         "target": "n_separator23",
         "type": "CONFINED_WITHIN"
@@ -5561,11 +3657,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear28",
-        "target": "n_punctuation51",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear29",
         "target": "n_separator23",
         "type": "CONFINED_WITHIN"
@@ -5574,11 +3665,6 @@
         "source": "n_interlinear29",
         "target": "n_separator24",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear29",
-        "target": "n_punctuation52",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main33",
@@ -5601,11 +3687,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main34",
-        "target": "n_punctuation53",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main35",
         "target": "n_separator25",
         "type": "CONFINED_WITHIN"
@@ -5616,11 +3697,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main35",
-        "target": "n_punctuation54",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear30",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -5629,11 +3705,6 @@
         "source": "n_interlinear30",
         "target": "n_separator28",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear30",
-        "target": "n_punctuation55",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear31",
@@ -5646,11 +3717,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear31",
-        "target": "n_punctuation56",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear32",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -5659,11 +3725,6 @@
         "source": "n_interlinear32",
         "target": "n_separator28",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear32",
-        "target": "n_punctuation57",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear33",
@@ -5676,11 +3737,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear33",
-        "target": "n_punctuation58",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear34",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -5689,11 +3745,6 @@
         "source": "n_interlinear34",
         "target": "n_separator28",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear34",
-        "target": "n_punctuation59",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear35",
@@ -5706,11 +3757,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear35",
-        "target": "n_punctuation60",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear36",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -5721,11 +3767,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear36",
-        "target": "n_punctuation61",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear37",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -5734,11 +3775,6 @@
         "source": "n_interlinear37",
         "target": "n_separator28",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear37",
-        "target": "n_punctuation62",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main36",
@@ -5761,11 +3797,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main37",
-        "target": "n_punctuation63",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main38",
         "target": "n_separator29",
         "type": "CONFINED_WITHIN"
@@ -5774,11 +3805,6 @@
         "source": "n_main38",
         "target": "n_separator30",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main38",
-        "target": "n_punctuation64",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main39",
@@ -5811,11 +3837,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear38",
-        "target": "n_punctuation65",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main41",
         "target": "n_separator31",
         "type": "CONFINED_WITHIN"
@@ -5824,11 +3845,6 @@
         "source": "n_main41",
         "target": "n_separator32",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main41",
-        "target": "n_punctuation66",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main42",
@@ -5861,11 +3877,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear39",
-        "target": "n_punctuation67",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear40",
         "target": "n_separator33",
         "type": "CONFINED_WITHIN"
@@ -5874,11 +3885,6 @@
         "source": "n_interlinear40",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear40",
-        "target": "n_punctuation68",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear41",
@@ -5891,11 +3897,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear41",
-        "target": "n_punctuation69",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear42",
         "target": "n_separator33",
         "type": "CONFINED_WITHIN"
@@ -5904,11 +3905,6 @@
         "source": "n_interlinear42",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear42",
-        "target": "n_punctuation70",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear43",
@@ -5921,11 +3917,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear43",
-        "target": "n_punctuation71",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear44",
         "target": "n_separator33",
         "type": "CONFINED_WITHIN"
@@ -5934,11 +3925,6 @@
         "source": "n_interlinear44",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear44",
-        "target": "n_punctuation72",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear45",
@@ -5951,11 +3937,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear45",
-        "target": "n_punctuation73",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear46",
         "target": "n_separator33",
         "type": "CONFINED_WITHIN"
@@ -5964,11 +3945,6 @@
         "source": "n_interlinear46",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear46",
-        "target": "n_punctuation74",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear47",
@@ -5991,11 +3967,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear48",
-        "target": "n_punctuation75",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear49",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -6004,11 +3975,6 @@
         "source": "n_interlinear49",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear49",
-        "target": "n_punctuation76",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear50",
@@ -6021,11 +3987,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear50",
-        "target": "n_punctuation77",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear51",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -6034,11 +3995,6 @@
         "source": "n_interlinear51",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear51",
-        "target": "n_punctuation78",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear52",
@@ -6051,11 +4007,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear52",
-        "target": "n_punctuation79",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear53",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -6064,11 +4015,6 @@
         "source": "n_interlinear53",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear53",
-        "target": "n_punctuation80",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear54",
@@ -6081,11 +4027,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear54",
-        "target": "n_punctuation81",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear55",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -6094,11 +4035,6 @@
         "source": "n_interlinear55",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear55",
-        "target": "n_punctuation82",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear56",
@@ -6111,11 +4047,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear56",
-        "target": "n_punctuation83",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear57",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -6124,11 +4055,6 @@
         "source": "n_interlinear57",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear57",
-        "target": "n_punctuation84",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear58",
@@ -6141,11 +4067,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear58",
-        "target": "n_punctuation85",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear59",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -6154,11 +4075,6 @@
         "source": "n_interlinear59",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear59",
-        "target": "n_punctuation86",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear60",
@@ -6171,11 +4087,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear60",
-        "target": "n_punctuation87",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main44",
         "target": "n_separator37",
         "type": "CONFINED_WITHIN"
@@ -6184,11 +4095,6 @@
         "source": "n_main44",
         "target": "n_separator38",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main44",
-        "target": "n_punctuation88",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main45",
@@ -6201,11 +4107,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main45",
-        "target": "n_punctuation89",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main46",
         "target": "n_separator37",
         "type": "CONFINED_WITHIN"
@@ -6214,11 +4115,6 @@
         "source": "n_main46",
         "target": "n_separator38",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main46",
-        "target": "n_punctuation90",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main47",
@@ -6241,11 +4137,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main48",
-        "target": "n_punctuation91",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main49",
         "target": "n_separator39",
         "type": "CONFINED_WITHIN"
@@ -6256,11 +4147,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main49",
-        "target": "n_punctuation92",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main50",
         "target": "n_separator39",
         "type": "CONFINED_WITHIN"
@@ -6269,11 +4155,6 @@
         "source": "n_main50",
         "target": "n_separator40",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main50",
-        "target": "n_punctuation93",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main51",
@@ -6834,6 +4715,86 @@
         "source": "n_main50",
         "target": "n_main51",
         "type": "READS_AFTER"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_frame1",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_separator21",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_separator22",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_separator23",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_separator24",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_separator26",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_center1",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_centertext3",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_centertext4",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_centertext5",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_centertext6",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_main28",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_main29",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_main32",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_interlinear27",
+        "type": "OVERLAPS"
+      },
+      {
+        "source": "n_seal1",
+        "target": "n_interlinear28",
+        "type": "OVERLAPS"
       }
     ]
   }

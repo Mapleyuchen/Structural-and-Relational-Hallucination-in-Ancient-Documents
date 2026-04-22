@@ -1,6 +1,8 @@
 {
   "image_id": "iso_v14_19_p0084",
-  "adversarial_scenario": "NORMAL",
+  "adversarial_scenario": [
+    "SEAL_TEXT_INTRUSION"
+  ],
   "metadata": {
     "width": 1414,
     "height": 1000
@@ -927,24 +929,6 @@
         }
       },
       {
-        "node_id": "n_punctuation1",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear2",
         "polygon": [
           1118,
@@ -961,24 +945,6 @@
         "attributes": {
           "group_id": "G_clap43137",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation2",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1001,24 +967,6 @@
         }
       },
       {
-        "node_id": "n_punctuation3",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear4",
         "polygon": [
           1098,
@@ -1035,24 +983,6 @@
         "attributes": {
           "group_id": "G_clap43137",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation4",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1379,24 +1309,6 @@
         }
       },
       {
-        "node_id": "n_punctuation5",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "：",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main18",
         "polygon": [
           399,
@@ -1475,14 +1387,14 @@
       {
         "node_id": "n_seal1",
         "polygon": [
-          684,
-          750,
-          814,
-          750,
-          814,
-          880,
-          684,
-          880
+          549,
+          633,
+          679,
+          633,
+          679,
+          763,
+          549,
+          763
         ],
         "text": "",
         "type": "RED_SEAL_STAMP",
@@ -1503,11 +1415,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear1",
-        "target": "n_punctuation1",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear2",
         "target": "n_separator1",
         "type": "CONFINED_WITHIN"
@@ -1516,11 +1423,6 @@
         "source": "n_interlinear2",
         "target": "n_separator2",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear2",
-        "target": "n_punctuation2",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear3",
@@ -1533,11 +1435,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear3",
-        "target": "n_punctuation3",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear4",
         "target": "n_separator1",
         "type": "CONFINED_WITHIN"
@@ -1546,11 +1443,6 @@
         "source": "n_interlinear4",
         "target": "n_separator2",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear4",
-        "target": "n_punctuation4",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main1",
@@ -1721,11 +1613,6 @@
         "source": "n_main17",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main17",
-        "target": "n_punctuation5",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main18",
@@ -1894,106 +1781,6 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_separator1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator7",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator8",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator9",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator10",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator11",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator12",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator13",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator14",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator15",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator16",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator17",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator18",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator19",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator20",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_separator21",
         "type": "OVERLAPS"
       },
@@ -2024,207 +1811,12 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_separator27",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_separator28",
         "type": "OVERLAPS"
       },
       {
         "source": "n_seal1",
-        "target": "n_separator29",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator30",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator31",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator32",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator33",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator34",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator35",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator36",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator37",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator38",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator39",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator40",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_center1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_fishtail1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext7",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main7",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main8",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main9",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main10",
         "type": "OVERLAPS"
       },
       {
@@ -2245,46 +1837,6 @@
       {
         "source": "n_seal1",
         "target": "n_main14",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main15",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main16",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main17",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main18",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main19",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main20",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main21",
         "type": "OVERLAPS"
       }
     ]

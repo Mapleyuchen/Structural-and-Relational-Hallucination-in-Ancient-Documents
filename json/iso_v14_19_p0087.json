@@ -1,6 +1,8 @@
 {
   "image_id": "iso_v14_19_p0087",
-  "adversarial_scenario": "NORMAL",
+  "adversarial_scenario": [
+    "OUT_OF_BOUNDS_INTRUSION"
+  ],
   "metadata": {
     "width": 1414,
     "height": 1000

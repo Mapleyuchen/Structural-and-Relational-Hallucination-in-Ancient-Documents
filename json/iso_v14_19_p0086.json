@@ -1,6 +1,8 @@
 {
   "image_id": "iso_v14_19_p0086",
-  "adversarial_scenario": "NORMAL",
+  "adversarial_scenario": [
+    "OUT_OF_BOUNDS_INTRUSION"
+  ],
   "metadata": {
     "width": 1414,
     "height": 1000
@@ -927,24 +929,6 @@
         }
       },
       {
-        "node_id": "n_punctuation1",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main1",
         "polygon": [
           1099,
@@ -1335,11 +1319,6 @@
         "source": "n_interlinear1",
         "target": "n_separator2",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear1",
-        "target": "n_punctuation1",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main1",

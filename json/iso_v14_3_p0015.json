@@ -1,6 +1,9 @@
 {
   "image_id": "iso_v14_3_p0015",
-  "adversarial_scenario": "NORMAL",
+  "adversarial_scenario": [
+    "DOUBLE_LINE_FLATTENING",
+    "SEAL_MASKING_OMISSION"
+  ],
   "metadata": {
     "width": 1414,
     "height": 1000
@@ -927,24 +930,6 @@
         }
       },
       {
-        "node_id": "n_punctuation1",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main2",
         "polygon": [
           1099,
@@ -983,24 +968,6 @@
         }
       },
       {
-        "node_id": "n_punctuation2",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear1",
         "polygon": [
           1078,
@@ -1017,24 +984,6 @@
         "attributes": {
           "group_id": "G_clap6941",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation3",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1057,24 +1006,6 @@
         }
       },
       {
-        "node_id": "n_punctuation4",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main4",
         "polygon": [
           1059,
@@ -1094,24 +1025,6 @@
         }
       },
       {
-        "node_id": "n_punctuation5",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main5",
         "polygon": [
           1059,
@@ -1128,24 +1041,6 @@
         "attributes": {
           "group_id": "G_main6942",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation6",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "：",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1187,24 +1082,6 @@
         }
       },
       {
-        "node_id": "n_punctuation7",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "！",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main8",
         "polygon": [
           1019,
@@ -1221,24 +1098,6 @@
         "attributes": {
           "group_id": "G_main6943",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation8",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1261,24 +1120,6 @@
         }
       },
       {
-        "node_id": "n_punctuation9",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main10",
         "polygon": [
           1019,
@@ -1298,24 +1139,6 @@
         }
       },
       {
-        "node_id": "n_punctuation10",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "：",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main11",
         "polygon": [
           1019,
@@ -1332,24 +1155,6 @@
         "attributes": {
           "group_id": "G_main6943",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation11",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "！",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1391,24 +1196,6 @@
         }
       },
       {
-        "node_id": "n_punctuation12",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "！",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main14",
         "polygon": [
           979,
@@ -1425,24 +1212,6 @@
         "attributes": {
           "group_id": "G_main6945",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation13",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "！",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1484,24 +1253,6 @@
         }
       },
       {
-        "node_id": "n_punctuation14",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main17",
         "polygon": [
           939,
@@ -1521,24 +1272,6 @@
         }
       },
       {
-        "node_id": "n_punctuation15",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "！",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main18",
         "polygon": [
           939,
@@ -1555,24 +1288,6 @@
         "attributes": {
           "group_id": "G_main6947",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation16",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1614,24 +1329,6 @@
         }
       },
       {
-        "node_id": "n_punctuation17",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main21",
         "polygon": [
           899,
@@ -1648,24 +1345,6 @@
         "attributes": {
           "group_id": "G_main6948",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation18",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1707,24 +1386,6 @@
         }
       },
       {
-        "node_id": "n_punctuation19",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main24",
         "polygon": [
           859,
@@ -1741,24 +1402,6 @@
         "attributes": {
           "group_id": "G_main6949",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation20",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "：",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1781,24 +1424,6 @@
         }
       },
       {
-        "node_id": "n_punctuation21",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main26",
         "polygon": [
           859,
@@ -1815,24 +1440,6 @@
         "attributes": {
           "group_id": "G_main6949",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation22",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1874,24 +1481,6 @@
         }
       },
       {
-        "node_id": "n_punctuation23",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main29",
         "polygon": [
           819,
@@ -1908,24 +1497,6 @@
         "attributes": {
           "group_id": "G_main6949",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation24",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -1967,24 +1538,6 @@
         }
       },
       {
-        "node_id": "n_punctuation25",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main32",
         "polygon": [
           779,
@@ -2001,24 +1554,6 @@
         "attributes": {
           "group_id": "G_main6950",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation26",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2060,6 +1595,2094 @@
         }
       },
       {
+        "node_id": "n_top_margin1",
+        "polygon": [
+          746,
+          20,
+          768,
+          20,
+          768,
+          196,
+          746,
+          196
+        ],
+        "text": "吾观今之文章之家",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin2",
+        "polygon": [
+          718,
+          20,
+          740,
+          20,
+          740,
+          196,
+          718,
+          196
+        ],
+        "text": "每云我有避之一诀",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin3",
+        "polygon": [
+          690,
+          20,
+          712,
+          20,
+          712,
+          196,
+          690,
+          196
+        ],
+        "text": "固也然而吾知其必",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin4",
+        "polygon": [
+          662,
+          20,
+          684,
+          20,
+          684,
+          152,
+          662,
+          152
+        ],
+        "text": "非才子之文也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin5",
+        "polygon": [
+          662,
+          162,
+          684,
+          162,
+          684,
+          184,
+          662,
+          184
+        ],
+        "text": "夫",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin6",
+        "polygon": [
+          634,
+          20,
+          656,
+          20,
+          656,
+          196,
+          634,
+          196
+        ],
+        "text": "才子之文则岂惟不",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin7",
+        "polygon": [
+          606,
+          20,
+          628,
+          20,
+          628,
+          196,
+          606,
+          196
+        ],
+        "text": "避而已又必于本不",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin8",
+        "polygon": [
+          578,
+          20,
+          600,
+          20,
+          600,
+          196,
+          578,
+          196
+        ],
+        "text": "相犯之处特特故自",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin9",
+        "polygon": [
+          550,
+          20,
+          572,
+          20,
+          572,
+          196,
+          550,
+          196
+        ],
+        "text": "犯之而后从而避之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin10",
+        "polygon": [
+          522,
+          20,
+          544,
+          20,
+          544,
+          196,
+          522,
+          196
+        ],
+        "text": "此元他亦以文章家",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin11",
+        "polygon": [
+          494,
+          20,
+          516,
+          20,
+          516,
+          196,
+          494,
+          196
+        ],
+        "text": "之有避之一诀非以",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin12",
+        "polygon": [
+          466,
+          20,
+          488,
+          20,
+          488,
+          196,
+          466,
+          196
+        ],
+        "text": "教人避也正以教人",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin13",
+        "polygon": [
+          438,
+          20,
+          460,
+          20,
+          460,
+          64,
+          438,
+          64
+        ],
+        "text": "犯也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin14",
+        "polygon": [
+          438,
+          74,
+          460,
+          74,
+          460,
+          184,
+          438,
+          184
+        ],
+        "text": "犯之而后避",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin15",
+        "polygon": [
+          410,
+          20,
+          432,
+          20,
+          432,
+          174,
+          410,
+          174
+        ],
+        "text": "之故避有所避也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin16",
+        "polygon": [
+          382,
+          20,
+          404,
+          20,
+          404,
+          196,
+          382,
+          196
+        ],
+        "text": "若不能犯之而但欲",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin17",
+        "polygon": [
+          354,
+          20,
+          376,
+          20,
+          376,
+          196,
+          354,
+          196
+        ],
+        "text": "避之然则避何所避",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin18",
+        "polygon": [
+          326,
+          20,
+          348,
+          20,
+          348,
+          64,
+          326,
+          64
+        ],
+        "text": "乎哉",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin19",
+        "polygon": [
+          326,
+          74,
+          348,
+          74,
+          348,
+          184,
+          326,
+          184
+        ],
+        "text": "是故行文非",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin20",
+        "polygon": [
+          298,
+          20,
+          320,
+          20,
+          320,
+          196,
+          298,
+          196
+        ],
+        "text": "能避之难实能犯之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin21",
+        "polygon": [
+          270,
+          20,
+          292,
+          20,
+          292,
+          64,
+          270,
+          64
+        ],
+        "text": "难也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin22",
+        "polygon": [
+          270,
+          74,
+          292,
+          74,
+          292,
+          184,
+          270,
+          184
+        ],
+        "text": "譬诸奕棋者",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin23",
+        "polygon": [
+          242,
+          20,
+          264,
+          20,
+          264,
+          196,
+          242,
+          196
+        ],
+        "text": "非救劫之难实留劫",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin24",
+        "polygon": [
+          214,
+          20,
+          236,
+          20,
+          236,
+          86,
+          214,
+          86
+        ],
+        "text": "之难也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin25",
+        "polygon": [
+          214,
+          96,
+          236,
+          96,
+          236,
+          184,
+          214,
+          184
+        ],
+        "text": "将欲避之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin26",
+        "polygon": [
+          186,
+          20,
+          208,
+          20,
+          208,
+          108,
+          186,
+          108
+        ],
+        "text": "必先犯之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin27",
+        "polygon": [
+          186,
+          118,
+          208,
+          118,
+          208,
+          184,
+          186,
+          184
+        ],
+        "text": "夫犯之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin28",
+        "polygon": [
+          158,
+          20,
+          180,
+          20,
+          180,
+          196,
+          158,
+          196
+        ],
+        "text": "而至于必不可避而",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin29",
+        "polygon": [
+          130,
+          20,
+          152,
+          20,
+          152,
+          196,
+          130,
+          196
+        ],
+        "text": "后天下之读吾文者",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin30",
+        "polygon": [
+          102,
+          20,
+          124,
+          20,
+          124,
+          196,
+          102,
+          196
+        ],
+        "text": "于是乎而观吾之才",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin31",
+        "polygon": [
+          74,
+          20,
+          96,
+          20,
+          96,
+          86,
+          74,
+          86
+        ],
+        "text": "之笔矣",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin32",
+        "polygon": [
+          74,
+          96,
+          96,
+          96,
+          96,
+          184,
+          74,
+          184
+        ],
+        "text": "犯之而至",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin33",
+        "polygon": [
+          46,
+          20,
+          68,
+          20,
+          68,
+          196,
+          46,
+          196
+        ],
+        "text": "于必不可避而吾之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin34",
+        "polygon": [
+          18,
+          20,
+          40,
+          20,
+          40,
+          196,
+          18,
+          196
+        ],
+        "text": "才之笔为之踌躇为",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin35",
+        "polygon": [
+          -10,
+          20,
+          12,
+          20,
+          12,
+          196,
+          -10,
+          196
+        ],
+        "text": "之四顾砉然中窾如",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin36",
+        "polygon": [
+          -38,
+          20,
+          -16,
+          20,
+          -16,
+          196,
+          -38,
+          196
+        ],
+        "text": "土委地则虽号于天",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin37",
+        "polygon": [
+          -66,
+          20,
+          -44,
+          20,
+          -44,
+          196,
+          -66,
+          196
+        ],
+        "text": "下之人曰吾才子也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin38",
+        "polygon": [
+          -94,
+          20,
+          -72,
+          20,
+          -72,
+          174,
+          -94,
+          174
+        ],
+        "text": "吾文才子之文也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin39",
+        "polygon": [
+          -122,
+          20,
+          -100,
+          20,
+          -100,
+          196,
+          -122,
+          196
+        ],
+        "text": "彼天下之人亦谁复",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin40",
+        "polygon": [
+          -150,
+          20,
+          -128,
+          20,
+          -128,
+          130,
+          -150,
+          130
+        ],
+        "text": "敢争之乎哉",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin41",
+        "polygon": [
+          -150,
+          140,
+          -128,
+          140,
+          -128,
+          184,
+          -150,
+          184
+        ],
+        "text": "故此",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin42",
+        "polygon": [
+          -178,
+          20,
+          -156,
+          20,
+          -156,
+          196,
+          -178,
+          196
+        ],
+        "text": "书于林冲买刀后紧",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin43",
+        "polygon": [
+          -206,
+          20,
+          -184,
+          20,
+          -184,
+          196,
+          -206,
+          196
+        ],
+        "text": "接杨志卖刀是正所",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin44",
+        "polygon": [
+          -234,
+          20,
+          -212,
+          20,
+          -212,
+          196,
+          -234,
+          196
+        ],
+        "text": "谓才子之文必先犯",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin45",
+        "polygon": [
+          -262,
+          20,
+          -240,
+          20,
+          -240,
+          196,
+          -262,
+          196
+        ],
+        "text": "之者而吾于是始乐",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin46",
+        "polygon": [
+          -290,
+          20,
+          -268,
+          20,
+          -268,
+          174,
+          -290,
+          174
+        ],
+        "text": "得而徐观其避也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin47",
+        "polygon": [
+          -318,
+          20,
+          -296,
+          20,
+          -296,
+          196,
+          -318,
+          196
+        ],
+        "text": "又曰我读水浒至此",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin48",
+        "polygon": [
+          -346,
+          20,
+          -324,
+          20,
+          -324,
+          174,
+          -346,
+          174
+        ],
+        "text": "不禁浩然而叹也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin49",
+        "polygon": [
+          -374,
+          20,
+          -352,
+          20,
+          -352,
+          86,
+          -374,
+          86
+        ],
+        "text": "曰嗟乎",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin50",
+        "polygon": [
+          -374,
+          96,
+          -352,
+          96,
+          -352,
+          184,
+          -374,
+          184
+        ],
+        "text": "作水浒者",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin51",
+        "polygon": [
+          -402,
+          20,
+          -380,
+          20,
+          -380,
+          196,
+          -402,
+          196
+        ],
+        "text": "虽欲不谓之才子胡",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin52",
+        "polygon": [
+          -430,
+          20,
+          -408,
+          20,
+          -408,
+          86,
+          -430,
+          86
+        ],
+        "text": "可得乎",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin53",
+        "polygon": [
+          -430,
+          96,
+          -408,
+          96,
+          -408,
+          184,
+          -430,
+          184
+        ],
+        "text": "夫人胸中",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin54",
+        "polygon": [
+          -458,
+          20,
+          -436,
+          20,
+          -436,
+          196,
+          -458,
+          196
+        ],
+        "text": "有非常之才者必有",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin55",
+        "polygon": [
+          -486,
+          20,
+          -464,
+          20,
+          -464,
+          196,
+          -486,
+          196
+        ],
+        "text": "非常之笔有非常之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin56",
+        "polygon": [
+          -514,
+          20,
+          -492,
+          20,
+          -492,
+          196,
+          -514,
+          196
+        ],
+        "text": "笔者必有非常之力",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin57",
+        "polygon": [
+          -542,
+          20,
+          -520,
+          20,
+          -520,
+          196,
+          -542,
+          196
+        ],
+        "text": "夫非非常之才无以",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin58",
+        "polygon": [
+          -570,
+          20,
+          -548,
+          20,
+          -548,
+          196,
+          -570,
+          196
+        ],
+        "text": "构其思也非非常之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin59",
+        "polygon": [
+          -598,
+          20,
+          -576,
+          20,
+          -576,
+          196,
+          -598,
+          196
+        ],
+        "text": "笔无以摛其才也又",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin60",
+        "polygon": [
+          -626,
+          20,
+          -604,
+          20,
+          -604,
+          196,
+          -626,
+          196
+        ],
+        "text": "非非常之力亦无以",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin61",
+        "polygon": [
+          -654,
+          20,
+          -632,
+          20,
+          -632,
+          108,
+          -654,
+          108
+        ],
+        "text": "副其笔也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin62",
+        "polygon": [
+          -654,
+          118,
+          -632,
+          118,
+          -632,
+          184,
+          -654,
+          184
+        ],
+        "text": "今观水",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin63",
+        "polygon": [
+          -682,
+          20,
+          -660,
+          20,
+          -660,
+          196,
+          -682,
+          196
+        ],
+        "text": "浒之写林武师也忽",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin64",
+        "polygon": [
+          -710,
+          20,
+          -688,
+          20,
+          -688,
+          196,
+          -710,
+          196
+        ],
+        "text": "以宝刀结成奇彩及",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin65",
+        "polygon": [
+          -738,
+          20,
+          -716,
+          20,
+          -716,
+          196,
+          -738,
+          196
+        ],
+        "text": "写杨制使也又复以",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin66",
+        "polygon": [
+          -766,
+          20,
+          -744,
+          20,
+          -744,
+          152,
+          -766,
+          152
+        ],
+        "text": "宝刀结成奇彩",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin67",
+        "polygon": [
+          -766,
+          162,
+          -744,
+          162,
+          -744,
+          184,
+          -766,
+          184
+        ],
+        "text": "夫",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin68",
+        "polygon": [
+          -794,
+          20,
+          -772,
+          20,
+          -772,
+          196,
+          -794,
+          196
+        ],
+        "text": "写豪杰不可尽而忽",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin69",
+        "polygon": [
+          -822,
+          20,
+          -800,
+          20,
+          -800,
+          196,
+          -822,
+          196
+        ],
+        "text": "然置豪杰而写宝刀",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin70",
+        "polygon": [
+          -850,
+          20,
+          -828,
+          20,
+          -828,
+          196,
+          -850,
+          196
+        ],
+        "text": "此借非非常之才其",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin71",
+        "polygon": [
+          -878,
+          20,
+          -856,
+          20,
+          -856,
+          196,
+          -878,
+          196
+        ],
+        "text": "亦安知宝刀为即豪",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin72",
+        "polygon": [
+          -906,
+          20,
+          -884,
+          20,
+          -884,
+          196,
+          -906,
+          196
+        ],
+        "text": "杰之替身但写得宝",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin73",
+        "polygon": [
+          -934,
+          20,
+          -912,
+          20,
+          -912,
+          196,
+          -934,
+          196
+        ],
+        "text": "刀尽致尽兴即已令",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin74",
+        "polygon": [
+          -962,
+          20,
+          -940,
+          20,
+          -940,
+          196,
+          -962,
+          196
+        ],
+        "text": "豪杰尽致尽兴者耶",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin75",
+        "polygon": [
+          -990,
+          20,
+          -968,
+          20,
+          -968,
+          196,
+          -990,
+          196
+        ],
+        "text": "且以宝刀写出豪杰",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin76",
+        "polygon": [
+          -1018,
+          20,
+          -996,
+          20,
+          -996,
+          196,
+          -1018,
+          196
+        ],
+        "text": "固已然以宝刀写武",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin77",
+        "polygon": [
+          -1046,
+          20,
+          -1024,
+          20,
+          -1024,
+          196,
+          -1046,
+          196
+        ],
+        "text": "师者不必其又以宝",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin78",
+        "polygon": [
+          -1074,
+          20,
+          -1052,
+          20,
+          -1052,
+          130,
+          -1074,
+          130
+        ],
+        "text": "刀写制使也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin79",
+        "polygon": [
+          -1074,
+          140,
+          -1052,
+          140,
+          -1052,
+          184,
+          -1074,
+          184
+        ],
+        "text": "今前",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin80",
+        "polygon": [
+          -1102,
+          20,
+          -1080,
+          20,
+          -1080,
+          196,
+          -1102,
+          196
+        ],
+        "text": "回初以一口宝刀照",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin81",
+        "polygon": [
+          -1130,
+          20,
+          -1108,
+          20,
+          -1108,
+          196,
+          -1130,
+          196
+        ],
+        "text": "耀武师者接手便又",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin82",
+        "polygon": [
+          -1158,
+          20,
+          -1136,
+          20,
+          -1136,
+          196,
+          -1158,
+          196
+        ],
+        "text": "以一口宝刀照耀制",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin83",
+        "polygon": [
+          -1186,
+          20,
+          -1164,
+          20,
+          -1164,
+          196,
+          -1186,
+          196
+        ],
+        "text": "使两位豪杰两口宝",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin84",
+        "polygon": [
+          -1214,
+          20,
+          -1192,
+          20,
+          -1192,
+          196,
+          -1214,
+          196
+        ],
+        "text": "刀接连而来对插而",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin85",
+        "polygon": [
+          -1242,
+          20,
+          -1220,
+          20,
+          -1220,
+          196,
+          -1242,
+          196
+        ],
+        "text": "起用笔至此奇险极",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin86",
+        "polygon": [
+          -1270,
+          20,
+          -1248,
+          20,
+          -1248,
+          42,
+          -1270,
+          42
+        ],
+        "text": "矣",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin87",
+        "polygon": [
+          -1270,
+          52,
+          -1248,
+          52,
+          -1248,
+          184,
+          -1270,
+          184
+        ],
+        "text": "即欲不谓之非",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin88",
+        "polygon": [
+          -1298,
+          20,
+          -1276,
+          20,
+          -1276,
+          196,
+          -1298,
+          196
+        ],
+        "text": "常而英英之色千人",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin89",
+        "polygon": [
+          -1326,
+          20,
+          -1304,
+          20,
+          -1304,
+          196,
+          -1326,
+          196
+        ],
+        "text": "万人莫不共见其又",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin90",
+        "polygon": [
+          -1354,
+          20,
+          -1332,
+          20,
+          -1332,
+          196,
+          -1354,
+          196
+        ],
+        "text": "畴得而不谓之非常",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin91",
+        "polygon": [
+          -1382,
+          20,
+          -1360,
+          20,
+          -1360,
+          42,
+          -1382,
+          42
+        ],
+        "text": "乎",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin92",
+        "polygon": [
+          -1382,
+          52,
+          -1360,
+          52,
+          -1360,
+          184,
+          -1382,
+          184
+        ],
+        "text": "又一个买刀一",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin93",
+        "polygon": [
+          -1410,
+          20,
+          -1388,
+          20,
+          -1388,
+          196,
+          -1410,
+          196
+        ],
+        "text": "个卖刀分镳各骋互",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin94",
+        "polygon": [
+          -1438,
+          20,
+          -1416,
+          20,
+          -1416,
+          196,
+          -1438,
+          196
+        ],
+        "text": "不相犯固也然使于",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin95",
+        "polygon": [
+          -1466,
+          20,
+          -1444,
+          20,
+          -1444,
+          196,
+          -1466,
+          196
+        ],
+        "text": "赞叹处痛悼处稍稍",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin96",
+        "polygon": [
+          -1494,
+          20,
+          -1472,
+          20,
+          -1472,
+          196,
+          -1494,
+          196
+        ],
+        "text": "有一句二句乃至一",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin97",
+        "polygon": [
+          -1522,
+          20,
+          -1500,
+          20,
+          -1500,
+          196,
+          -1522,
+          196
+        ],
+        "text": "字二字偶然相同即",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin98",
+        "polygon": [
+          -1550,
+          20,
+          -1528,
+          20,
+          -1528,
+          196,
+          -1550,
+          196
+        ],
+        "text": "亦岂见作者之手法",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin99",
+        "polygon": [
+          -1578,
+          20,
+          -1556,
+          20,
+          -1556,
+          42,
+          -1578,
+          42
+        ],
+        "text": "乎",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin100",
+        "polygon": [
+          -1578,
+          52,
+          -1556,
+          52,
+          -1556,
+          184,
+          -1578,
+          184
+        ],
+        "text": "今两刀接连一",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin101",
+        "polygon": [
+          -1606,
+          20,
+          -1584,
+          20,
+          -1584,
+          196,
+          -1606,
+          196
+        ],
+        "text": "字不犯乃至譬如东",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin102",
+        "polygon": [
+          -1634,
+          20,
+          -1612,
+          20,
+          -1612,
+          196,
+          -1634,
+          196
+        ],
+        "text": "泰西华各自争奇呜",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin103",
+        "polygon": [
+          -1662,
+          20,
+          -1640,
+          20,
+          -1640,
+          42,
+          -1662,
+          42
+        ],
+        "text": "呼",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin104",
+        "polygon": [
+          -1662,
+          52,
+          -1640,
+          52,
+          -1640,
+          184,
+          -1662,
+          184
+        ],
+        "text": "特特挺而走险",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin105",
+        "polygon": [
+          -1690,
+          20,
+          -1668,
+          20,
+          -1668,
+          196,
+          -1690,
+          196
+        ],
+        "text": "以自表其六辔如组",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin106",
+        "polygon": [
+          -1718,
+          20,
+          -1696,
+          20,
+          -1696,
+          196,
+          -1718,
+          196
+        ],
+        "text": "两骖如舞之能才子",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin107",
+        "polygon": [
+          -1746,
+          20,
+          -1724,
+          20,
+          -1724,
+          152,
+          -1746,
+          152
+        ],
+        "text": "之称岂虚誉哉",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin108",
+        "polygon": [
+          -1746,
+          162,
+          -1724,
+          162,
+          -1724,
+          184,
+          -1746,
+          184
+        ],
+        "text": "天",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin109",
+        "polygon": [
+          -1774,
+          20,
+          -1752,
+          20,
+          -1752,
+          196,
+          -1774,
+          196
+        ],
+        "text": "汉桥下写英雄失路",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin110",
+        "polygon": [
+          -1802,
+          20,
+          -1780,
+          20,
+          -1780,
+          196,
+          -1802,
+          196
+        ],
+        "text": "使人如坐冬夜紧接",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin111",
+        "polygon": [
+          -1830,
+          20,
+          -1808,
+          20,
+          -1808,
+          196,
+          -1830,
+          196
+        ],
+        "text": "演武厅前写英雄得",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin112",
+        "polygon": [
+          -1858,
+          20,
+          -1836,
+          20,
+          -1836,
+          174,
+          -1858,
+          174
+        ],
+        "text": "意使人忽上春台",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin113",
+        "polygon": [
+          -1886,
+          20,
+          -1864,
+          20,
+          -1864,
+          196,
+          -1886,
+          196
+        ],
+        "text": "咽处加一倍咽艳处",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin114",
+        "polygon": [
+          -1914,
+          20,
+          -1892,
+          20,
+          -1892,
+          196,
+          -1914,
+          196
+        ],
+        "text": "加一倍艳皆作者瞻",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin115",
+        "polygon": [
+          -1942,
+          20,
+          -1920,
+          20,
+          -1920,
+          196,
+          -1942,
+          196
+        ],
+        "text": "顾非常趋走有龙虎",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin116",
+        "polygon": [
+          -1970,
+          20,
+          -1948,
+          20,
+          -1948,
+          86,
+          -1970,
+          86
+        ],
+        "text": "之状处",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
         "node_id": "n_main35",
         "polygon": [
           739,
@@ -2098,24 +3721,6 @@
         }
       },
       {
-        "node_id": "n_punctuation27",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main37",
         "polygon": [
           639,
@@ -2132,24 +3737,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation28",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2191,24 +3778,6 @@
         }
       },
       {
-        "node_id": "n_punctuation29",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main40",
         "polygon": [
           599,
@@ -2225,24 +3794,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation30",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2265,24 +3816,6 @@
         }
       },
       {
-        "node_id": "n_punctuation31",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main42",
         "polygon": [
           559,
@@ -2299,24 +3832,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation32",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2339,24 +3854,6 @@
         }
       },
       {
-        "node_id": "n_punctuation33",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main44",
         "polygon": [
           559,
@@ -2373,24 +3870,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation34",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2432,24 +3911,6 @@
         }
       },
       {
-        "node_id": "n_punctuation35",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main47",
         "polygon": [
           519,
@@ -2469,24 +3930,6 @@
         }
       },
       {
-        "node_id": "n_punctuation36",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main48",
         "polygon": [
           519,
@@ -2503,24 +3946,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation37",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2562,24 +3987,6 @@
         }
       },
       {
-        "node_id": "n_punctuation38",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main51",
         "polygon": [
           479,
@@ -2596,24 +4003,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation39",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2636,24 +4025,6 @@
         }
       },
       {
-        "node_id": "n_punctuation40",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main53",
         "polygon": [
           439,
@@ -2673,24 +4044,6 @@
         }
       },
       {
-        "node_id": "n_punctuation41",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main54",
         "polygon": [
           439,
@@ -2707,24 +4060,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation42",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "；",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2766,24 +4101,6 @@
         }
       },
       {
-        "node_id": "n_punctuation43",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main57",
         "polygon": [
           399,
@@ -2800,24 +4117,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation44",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2840,24 +4139,6 @@
         }
       },
       {
-        "node_id": "n_punctuation45",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "：",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main59",
         "polygon": [
           399,
@@ -2874,24 +4155,6 @@
         "attributes": {
           "group_id": "G_main6979",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation46",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "！",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -2933,24 +4196,6 @@
         }
       },
       {
-        "node_id": "n_punctuation47",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear3",
         "polygon": [
           378,
@@ -2967,24 +4212,6 @@
         "attributes": {
           "group_id": "G_clap6981",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation48",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3007,24 +4234,6 @@
         }
       },
       {
-        "node_id": "n_punctuation49",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear5",
         "polygon": [
           358,
@@ -3041,24 +4250,6 @@
         "attributes": {
           "group_id": "G_clap6981",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation50",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3100,24 +4291,6 @@
         }
       },
       {
-        "node_id": "n_punctuation51",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main64",
         "polygon": [
           319,
@@ -3134,24 +4307,6 @@
         "attributes": {
           "group_id": "G_main6982",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation52",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3174,24 +4329,6 @@
         }
       },
       {
-        "node_id": "n_punctuation53",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_interlinear7",
         "polygon": [
           318,
@@ -3208,24 +4345,6 @@
         "attributes": {
           "group_id": "G_clap6983",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation54",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3248,24 +4367,6 @@
         }
       },
       {
-        "node_id": "n_punctuation55",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main66",
         "polygon": [
           319,
@@ -3282,24 +4383,6 @@
         "attributes": {
           "group_id": "G_main6984",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation56",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3341,24 +4424,6 @@
         }
       },
       {
-        "node_id": "n_punctuation57",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main69",
         "polygon": [
           279,
@@ -3375,24 +4440,6 @@
         "attributes": {
           "group_id": "G_main6984",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation58",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3415,24 +4462,6 @@
         }
       },
       {
-        "node_id": "n_punctuation59",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "。",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_main71",
         "polygon": [
           279,
@@ -3449,24 +4478,6 @@
         "attributes": {
           "group_id": "G_main6985",
           "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_punctuation60",
-        "polygon": [
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0,
-          0
-        ],
-        "text": "，",
-        "type": "PUNCTUATION_MARK",
-        "attributes": {
-          "z_index": 2
         }
       },
       {
@@ -3491,14 +4502,14 @@
       {
         "node_id": "n_seal1",
         "polygon": [
-          436,
-          707,
-          566,
-          707,
-          566,
-          837,
-          436,
-          837
+          892,
+          586,
+          1022,
+          586,
+          1022,
+          716,
+          892,
+          716
         ],
         "text": "",
         "type": "RED_SEAL_STAMP",
@@ -3519,11 +4530,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main1",
-        "target": "n_punctuation1",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main2",
         "target": "n_separator1",
         "type": "CONFINED_WITHIN"
@@ -3544,11 +4550,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main3",
-        "target": "n_punctuation2",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear1",
         "target": "n_separator3",
         "type": "CONFINED_WITHIN"
@@ -3557,11 +4558,6 @@
         "source": "n_interlinear1",
         "target": "n_separator4",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear1",
-        "target": "n_punctuation3",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear2",
@@ -3574,11 +4570,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear2",
-        "target": "n_punctuation4",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main4",
         "target": "n_separator3",
         "type": "CONFINED_WITHIN"
@@ -3589,11 +4580,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main4",
-        "target": "n_punctuation5",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main5",
         "target": "n_separator3",
         "type": "CONFINED_WITHIN"
@@ -3602,11 +4588,6 @@
         "source": "n_main5",
         "target": "n_separator4",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main5",
-        "target": "n_punctuation6",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main6",
@@ -3629,11 +4610,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main7",
-        "target": "n_punctuation7",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main8",
         "target": "n_separator5",
         "type": "CONFINED_WITHIN"
@@ -3642,11 +4618,6 @@
         "source": "n_main8",
         "target": "n_separator6",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main8",
-        "target": "n_punctuation8",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main9",
@@ -3659,11 +4630,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main9",
-        "target": "n_punctuation9",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main10",
         "target": "n_separator5",
         "type": "CONFINED_WITHIN"
@@ -3674,11 +4640,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main10",
-        "target": "n_punctuation10",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main11",
         "target": "n_separator5",
         "type": "CONFINED_WITHIN"
@@ -3687,11 +4648,6 @@
         "source": "n_main11",
         "target": "n_separator6",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main11",
-        "target": "n_punctuation11",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main12",
@@ -3714,11 +4670,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main13",
-        "target": "n_punctuation12",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main14",
         "target": "n_separator7",
         "type": "CONFINED_WITHIN"
@@ -3727,11 +4678,6 @@
         "source": "n_main14",
         "target": "n_separator8",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main14",
-        "target": "n_punctuation13",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main15",
@@ -3754,11 +4700,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main16",
-        "target": "n_punctuation14",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main17",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
@@ -3769,11 +4710,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main17",
-        "target": "n_punctuation15",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main18",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
@@ -3782,11 +4718,6 @@
         "source": "n_main18",
         "target": "n_separator10",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main18",
-        "target": "n_punctuation16",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main19",
@@ -3809,11 +4740,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main20",
-        "target": "n_punctuation17",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main21",
         "target": "n_separator11",
         "type": "CONFINED_WITHIN"
@@ -3822,11 +4748,6 @@
         "source": "n_main21",
         "target": "n_separator12",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main21",
-        "target": "n_punctuation18",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main22",
@@ -3849,11 +4770,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main23",
-        "target": "n_punctuation19",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main24",
         "target": "n_separator13",
         "type": "CONFINED_WITHIN"
@@ -3862,11 +4778,6 @@
         "source": "n_main24",
         "target": "n_separator14",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main24",
-        "target": "n_punctuation20",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main25",
@@ -3879,11 +4790,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main25",
-        "target": "n_punctuation21",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main26",
         "target": "n_separator13",
         "type": "CONFINED_WITHIN"
@@ -3892,11 +4798,6 @@
         "source": "n_main26",
         "target": "n_separator14",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main26",
-        "target": "n_punctuation22",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main27",
@@ -3919,11 +4820,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main28",
-        "target": "n_punctuation23",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main29",
         "target": "n_separator15",
         "type": "CONFINED_WITHIN"
@@ -3932,11 +4828,6 @@
         "source": "n_main29",
         "target": "n_separator16",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main29",
-        "target": "n_punctuation24",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main30",
@@ -3959,11 +4850,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main31",
-        "target": "n_punctuation25",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main32",
         "target": "n_separator17",
         "type": "CONFINED_WITHIN"
@@ -3972,11 +4858,6 @@
         "source": "n_main32",
         "target": "n_separator18",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main32",
-        "target": "n_punctuation26",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main33",
@@ -4019,11 +4900,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main36",
-        "target": "n_punctuation27",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main37",
         "target": "n_separator21",
         "type": "CONFINED_WITHIN"
@@ -4032,11 +4908,6 @@
         "source": "n_main37",
         "target": "n_separator22",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main37",
-        "target": "n_punctuation28",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main38",
@@ -4059,11 +4930,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main39",
-        "target": "n_punctuation29",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main40",
         "target": "n_separator23",
         "type": "CONFINED_WITHIN"
@@ -4072,11 +4938,6 @@
         "source": "n_main40",
         "target": "n_separator24",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main40",
-        "target": "n_punctuation30",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main41",
@@ -4089,11 +4950,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main41",
-        "target": "n_punctuation31",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main42",
         "target": "n_separator25",
         "type": "CONFINED_WITHIN"
@@ -4102,11 +4958,6 @@
         "source": "n_main42",
         "target": "n_separator26",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main42",
-        "target": "n_punctuation32",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main43",
@@ -4119,11 +4970,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main43",
-        "target": "n_punctuation33",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main44",
         "target": "n_separator25",
         "type": "CONFINED_WITHIN"
@@ -4132,11 +4978,6 @@
         "source": "n_main44",
         "target": "n_separator26",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main44",
-        "target": "n_punctuation34",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main45",
@@ -4159,11 +5000,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main46",
-        "target": "n_punctuation35",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main47",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -4174,11 +5010,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main47",
-        "target": "n_punctuation36",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main48",
         "target": "n_separator27",
         "type": "CONFINED_WITHIN"
@@ -4187,11 +5018,6 @@
         "source": "n_main48",
         "target": "n_separator28",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main48",
-        "target": "n_punctuation37",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main49",
@@ -4214,11 +5040,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main50",
-        "target": "n_punctuation38",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main51",
         "target": "n_separator29",
         "type": "CONFINED_WITHIN"
@@ -4227,11 +5048,6 @@
         "source": "n_main51",
         "target": "n_separator30",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main51",
-        "target": "n_punctuation39",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main52",
@@ -4244,11 +5060,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main52",
-        "target": "n_punctuation40",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main53",
         "target": "n_separator31",
         "type": "CONFINED_WITHIN"
@@ -4259,11 +5070,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main53",
-        "target": "n_punctuation41",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main54",
         "target": "n_separator31",
         "type": "CONFINED_WITHIN"
@@ -4272,11 +5078,6 @@
         "source": "n_main54",
         "target": "n_separator32",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main54",
-        "target": "n_punctuation42",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main55",
@@ -4299,11 +5100,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main56",
-        "target": "n_punctuation43",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main57",
         "target": "n_separator33",
         "type": "CONFINED_WITHIN"
@@ -4312,11 +5108,6 @@
         "source": "n_main57",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main57",
-        "target": "n_punctuation44",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main58",
@@ -4329,11 +5120,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main58",
-        "target": "n_punctuation45",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main59",
         "target": "n_separator33",
         "type": "CONFINED_WITHIN"
@@ -4342,11 +5128,6 @@
         "source": "n_main59",
         "target": "n_separator34",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main59",
-        "target": "n_punctuation46",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main60",
@@ -4369,11 +5150,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main61",
-        "target": "n_punctuation47",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear3",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -4382,11 +5158,6 @@
         "source": "n_interlinear3",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear3",
-        "target": "n_punctuation48",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear4",
@@ -4399,11 +5170,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear4",
-        "target": "n_punctuation49",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear5",
         "target": "n_separator35",
         "type": "CONFINED_WITHIN"
@@ -4412,11 +5178,6 @@
         "source": "n_interlinear5",
         "target": "n_separator36",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear5",
-        "target": "n_punctuation50",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main62",
@@ -4439,11 +5200,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main63",
-        "target": "n_punctuation51",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main64",
         "target": "n_separator37",
         "type": "CONFINED_WITHIN"
@@ -4452,11 +5208,6 @@
         "source": "n_main64",
         "target": "n_separator38",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main64",
-        "target": "n_punctuation52",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_interlinear6",
@@ -4469,11 +5220,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_interlinear6",
-        "target": "n_punctuation53",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_interlinear7",
         "target": "n_separator37",
         "type": "CONFINED_WITHIN"
@@ -4482,11 +5228,6 @@
         "source": "n_interlinear7",
         "target": "n_separator38",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear7",
-        "target": "n_punctuation54",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main65",
@@ -4499,11 +5240,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main65",
-        "target": "n_punctuation55",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main66",
         "target": "n_separator37",
         "type": "CONFINED_WITHIN"
@@ -4512,11 +5248,6 @@
         "source": "n_main66",
         "target": "n_separator38",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main66",
-        "target": "n_punctuation56",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main67",
@@ -4539,11 +5270,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main68",
-        "target": "n_punctuation57",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main69",
         "target": "n_separator39",
         "type": "CONFINED_WITHIN"
@@ -4552,11 +5278,6 @@
         "source": "n_main69",
         "target": "n_separator40",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main69",
-        "target": "n_punctuation58",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main70",
@@ -4569,11 +5290,6 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main70",
-        "target": "n_punctuation59",
-        "type": "TERMINATES_AT"
-      },
-      {
         "source": "n_main71",
         "target": "n_separator39",
         "type": "CONFINED_WITHIN"
@@ -4582,11 +5298,6 @@
         "source": "n_main71",
         "target": "n_separator40",
         "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main71",
-        "target": "n_punctuation60",
-        "type": "TERMINATES_AT"
       },
       {
         "source": "n_main72",
@@ -4987,6 +5698,586 @@
         "source": "n_main71",
         "target": "n_main72",
         "type": "READS_AFTER"
+      },
+      {
+        "source": "n_top_margin1",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin2",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin3",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin4",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin5",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin6",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin7",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin8",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin9",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin10",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin11",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin12",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin13",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin14",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin15",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin16",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin17",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin18",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin19",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin20",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin21",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin22",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin23",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin24",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin25",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin26",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin27",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin28",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin29",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin30",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin31",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin32",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin33",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin34",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin35",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin36",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin37",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin38",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin39",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin40",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin41",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin42",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin43",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin44",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin45",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin46",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin47",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin48",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin49",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin50",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin51",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin52",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin53",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin54",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin55",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin56",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin57",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin58",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin59",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin60",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin61",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin62",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin63",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin64",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin65",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin66",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin67",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin68",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin69",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin70",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin71",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin72",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin73",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin74",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin75",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin76",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin77",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin78",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin79",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin80",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin81",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin82",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin83",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin84",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin85",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin86",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin87",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin88",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin89",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin90",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin91",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin92",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin93",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin94",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin95",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin96",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin97",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin98",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin99",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin100",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin101",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin102",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin103",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin104",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin105",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin106",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin107",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin108",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin109",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin110",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin111",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin112",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin113",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin114",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin115",
+        "target": "n_main35",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin116",
+        "target": "n_main35",
+        "type": "ANNOTATES"
       },
       {
         "source": "n_seal1",
@@ -4995,32 +6286,7 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_separator1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_separator5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator6",
         "type": "OVERLAPS"
       },
       {
@@ -5055,277 +6321,7 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_separator13",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_separator14",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator15",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator16",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator17",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator18",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator19",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator20",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator21",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator22",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator23",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator24",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator25",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator26",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator27",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator28",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator29",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator30",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator31",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator32",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator33",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator34",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator35",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator36",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator37",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator38",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator39",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_separator40",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_center1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_fishtail1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_fishtail2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_centertext6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear1",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear2",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main7",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation7",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main8",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation8",
         "type": "OVERLAPS"
       },
       {
@@ -5335,42 +6331,7 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_punctuation9",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_main10",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation10",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main11",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation11",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main12",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main13",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation12",
         "type": "OVERLAPS"
       },
       {
@@ -5380,32 +6341,7 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_punctuation13",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_main15",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main16",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation14",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main17",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation15",
         "type": "OVERLAPS"
       },
       {
@@ -5415,522 +6351,12 @@
       },
       {
         "source": "n_seal1",
-        "target": "n_punctuation16",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main19",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main20",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation17",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main21",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation18",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_main22",
         "type": "OVERLAPS"
       },
       {
         "source": "n_seal1",
-        "target": "n_main23",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation19",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main24",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation20",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main25",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation21",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
         "target": "n_main26",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation22",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main27",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main28",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation23",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main29",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation24",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main30",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main31",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation25",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main32",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation26",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main33",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main34",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main35",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main36",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation27",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main37",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation28",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main38",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main39",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation29",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main40",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation30",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main41",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation31",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main42",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation32",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main43",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation33",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main44",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation34",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main45",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main46",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation35",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main47",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation36",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main48",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation37",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main49",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main50",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation38",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main51",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation39",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main52",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation40",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main53",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation41",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main54",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation42",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main55",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main56",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation43",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main57",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation44",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main58",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation45",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main59",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation46",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main60",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main61",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation47",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear3",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation48",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear4",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation49",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear5",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation50",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main62",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main63",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation51",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main64",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation52",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear6",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation53",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_interlinear7",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation54",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main65",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation55",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main66",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation56",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main67",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main68",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation57",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main69",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation58",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main70",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation59",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main71",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_punctuation60",
-        "type": "OVERLAPS"
-      },
-      {
-        "source": "n_seal1",
-        "target": "n_main72",
         "type": "OVERLAPS"
       }
     ]
