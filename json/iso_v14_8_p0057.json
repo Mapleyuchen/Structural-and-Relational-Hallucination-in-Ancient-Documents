@@ -1,7 +1,9 @@
 {
   "image_id": "iso_v14_8_p0057",
   "adversarial_scenario": [
-    "NORMAL"
+    "CENTER_FOLD_PENETRATION",
+    "OUT_OF_BOUNDS_INTRUSION",
+    "DOUBLE_LINE_FLATTENING"
   ],
   "metadata": {
     "width": 1414,
@@ -32,9 +34,9 @@
         "polygon": [
           1097,
           220,
-          1098,
+          1137,
           220,
-          1098,
+          1137,
           868,
           1097,
           868
@@ -48,13 +50,13 @@
       {
         "node_id": "n_separator2",
         "polygon": [
-          1137,
+          1057,
           220,
-          1138,
+          1097,
           220,
-          1138,
+          1097,
           868,
-          1137,
+          1057,
           868
         ],
         "text": "",
@@ -66,13 +68,13 @@
       {
         "node_id": "n_separator3",
         "polygon": [
+          1017,
+          220,
           1057,
           220,
-          1058,
-          220,
-          1058,
+          1057,
           868,
-          1057,
+          1017,
           868
         ],
         "text": "",
@@ -84,13 +86,13 @@
       {
         "node_id": "n_separator4",
         "polygon": [
-          1097,
+          977,
           220,
-          1098,
+          1017,
           220,
-          1098,
+          1017,
           868,
-          1097,
+          977,
           868
         ],
         "text": "",
@@ -102,13 +104,13 @@
       {
         "node_id": "n_separator5",
         "polygon": [
-          1017,
+          937,
           220,
-          1018,
+          977,
           220,
-          1018,
+          977,
           868,
-          1017,
+          937,
           868
         ],
         "text": "",
@@ -120,13 +122,13 @@
       {
         "node_id": "n_separator6",
         "polygon": [
-          1057,
+          897,
           220,
-          1058,
+          937,
           220,
-          1058,
+          937,
           868,
-          1057,
+          897,
           868
         ],
         "text": "",
@@ -138,13 +140,13 @@
       {
         "node_id": "n_separator7",
         "polygon": [
-          977,
+          857,
           220,
-          978,
+          897,
           220,
-          978,
+          897,
           868,
-          977,
+          857,
           868
         ],
         "text": "",
@@ -156,13 +158,13 @@
       {
         "node_id": "n_separator8",
         "polygon": [
-          1017,
+          817,
           220,
-          1018,
+          857,
           220,
-          1018,
+          857,
           868,
-          1017,
+          817,
           868
         ],
         "text": "",
@@ -174,13 +176,13 @@
       {
         "node_id": "n_separator9",
         "polygon": [
-          937,
+          777,
           220,
-          938,
+          817,
           220,
-          938,
+          817,
           868,
-          937,
+          777,
           868
         ],
         "text": "",
@@ -192,13 +194,13 @@
       {
         "node_id": "n_separator10",
         "polygon": [
-          977,
+          737,
           220,
-          978,
+          777,
           220,
-          978,
+          777,
           868,
-          977,
+          737,
           868
         ],
         "text": "",
@@ -210,13 +212,13 @@
       {
         "node_id": "n_separator11",
         "polygon": [
-          897,
+          637,
           220,
-          898,
+          677,
           220,
-          898,
+          677,
           868,
-          897,
+          637,
           868
         ],
         "text": "",
@@ -228,13 +230,13 @@
       {
         "node_id": "n_separator12",
         "polygon": [
-          937,
+          597,
           220,
-          938,
+          637,
           220,
-          938,
+          637,
           868,
-          937,
+          597,
           868
         ],
         "text": "",
@@ -246,13 +248,13 @@
       {
         "node_id": "n_separator13",
         "polygon": [
-          857,
+          557,
           220,
-          858,
+          597,
           220,
-          858,
+          597,
           868,
-          857,
+          557,
           868
         ],
         "text": "",
@@ -264,13 +266,13 @@
       {
         "node_id": "n_separator14",
         "polygon": [
-          897,
+          517,
           220,
-          898,
+          557,
           220,
-          898,
+          557,
           868,
-          897,
+          517,
           868
         ],
         "text": "",
@@ -282,13 +284,13 @@
       {
         "node_id": "n_separator15",
         "polygon": [
-          817,
+          477,
           220,
-          818,
+          517,
           220,
-          818,
+          517,
           868,
-          817,
+          477,
           868
         ],
         "text": "",
@@ -300,13 +302,13 @@
       {
         "node_id": "n_separator16",
         "polygon": [
-          857,
+          437,
           220,
-          858,
+          477,
           220,
-          858,
+          477,
           868,
-          857,
+          437,
           868
         ],
         "text": "",
@@ -318,13 +320,13 @@
       {
         "node_id": "n_separator17",
         "polygon": [
-          777,
+          397,
           220,
-          778,
+          437,
           220,
-          778,
+          437,
           868,
-          777,
+          397,
           868
         ],
         "text": "",
@@ -336,13 +338,13 @@
       {
         "node_id": "n_separator18",
         "polygon": [
-          817,
+          357,
           220,
-          818,
+          397,
           220,
-          818,
+          397,
           868,
-          817,
+          357,
           868
         ],
         "text": "",
@@ -354,13 +356,13 @@
       {
         "node_id": "n_separator19",
         "polygon": [
-          737,
+          317,
           220,
-          738,
+          357,
           220,
-          738,
+          357,
           868,
-          737,
+          317,
           868
         ],
         "text": "",
@@ -372,13 +374,13 @@
       {
         "node_id": "n_separator20",
         "polygon": [
-          777,
+          277,
           220,
-          778,
+          317,
           220,
-          778,
+          317,
           868,
-          777,
+          277,
           868
         ],
         "text": "",
@@ -390,366 +392,6 @@
       {
         "node_id": "n_separator21",
         "polygon": [
-          637,
-          220,
-          638,
-          220,
-          638,
-          868,
-          637,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator22",
-        "polygon": [
-          677,
-          220,
-          678,
-          220,
-          678,
-          868,
-          677,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator23",
-        "polygon": [
-          597,
-          220,
-          598,
-          220,
-          598,
-          868,
-          597,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator24",
-        "polygon": [
-          637,
-          220,
-          638,
-          220,
-          638,
-          868,
-          637,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator25",
-        "polygon": [
-          557,
-          220,
-          558,
-          220,
-          558,
-          868,
-          557,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator26",
-        "polygon": [
-          597,
-          220,
-          598,
-          220,
-          598,
-          868,
-          597,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator27",
-        "polygon": [
-          517,
-          220,
-          518,
-          220,
-          518,
-          868,
-          517,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator28",
-        "polygon": [
-          557,
-          220,
-          558,
-          220,
-          558,
-          868,
-          557,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator29",
-        "polygon": [
-          477,
-          220,
-          478,
-          220,
-          478,
-          868,
-          477,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator30",
-        "polygon": [
-          517,
-          220,
-          518,
-          220,
-          518,
-          868,
-          517,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator31",
-        "polygon": [
-          437,
-          220,
-          438,
-          220,
-          438,
-          868,
-          437,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator32",
-        "polygon": [
-          477,
-          220,
-          478,
-          220,
-          478,
-          868,
-          477,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator33",
-        "polygon": [
-          397,
-          220,
-          398,
-          220,
-          398,
-          868,
-          397,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator34",
-        "polygon": [
-          437,
-          220,
-          438,
-          220,
-          438,
-          868,
-          437,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator35",
-        "polygon": [
-          357,
-          220,
-          358,
-          220,
-          358,
-          868,
-          357,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator36",
-        "polygon": [
-          397,
-          220,
-          398,
-          220,
-          398,
-          868,
-          397,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator37",
-        "polygon": [
-          317,
-          220,
-          318,
-          220,
-          318,
-          868,
-          317,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator38",
-        "polygon": [
-          357,
-          220,
-          358,
-          220,
-          358,
-          868,
-          357,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator39",
-        "polygon": [
-          277,
-          220,
-          278,
-          220,
-          278,
-          868,
-          277,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_separator40",
-        "polygon": [
-          317,
-          220,
-          318,
-          220,
-          318,
-          868,
-          317,
-          868
-        ],
-        "text": "",
-        "type": "COLUMN_SEPARATOR",
-        "attributes": {
-          "z_index": 0
-        }
-      },
-      {
-        "node_id": "n_center1",
-        "polygon": [
           677,
           220,
           737,
@@ -760,7 +402,7 @@
           868
         ],
         "text": "",
-        "type": "CENTER_FOLD_COLUMN",
+        "type": "COLUMN_SEPARATOR",
         "attributes": {
           "z_index": 0
         }
@@ -791,119 +433,11 @@
           725,
           417,
           725,
-          453,
-          689,
-          453
-        ],
-        "text": "水",
-        "type": "CENTER_FOLD_TEXT",
-        "attributes": {
-          "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_centertext2",
-        "polygon": [
-          689,
-          453,
-          725,
-          453,
-          725,
-          489,
-          689,
-          489
-        ],
-        "text": "浒",
-        "type": "CENTER_FOLD_TEXT",
-        "attributes": {
-          "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_centertext3",
-        "polygon": [
-          689,
-          489,
-          725,
-          489,
-          725,
-          525,
-          689,
-          525
-        ],
-        "text": "传",
-        "type": "CENTER_FOLD_TEXT",
-        "attributes": {
-          "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_centertext4",
-        "polygon": [
-          689,
-          525,
-          725,
-          525,
-          725,
-          561,
-          689,
-          561
-        ],
-        "text": "第",
-        "type": "CENTER_FOLD_TEXT",
-        "attributes": {
-          "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_centertext5",
-        "polygon": [
-          689,
-          561,
-          725,
-          561,
-          725,
-          597,
-          689,
-          597
-        ],
-        "text": "三",
-        "type": "CENTER_FOLD_TEXT",
-        "attributes": {
-          "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_centertext6",
-        "polygon": [
-          689,
-          597,
-          725,
-          597,
-          725,
-          633,
-          689,
-          633
-        ],
-        "text": "十",
-        "type": "CENTER_FOLD_TEXT",
-        "attributes": {
-          "z_index": 1
-        }
-      },
-      {
-        "node_id": "n_centertext7",
-        "polygon": [
-          689,
-          633,
-          725,
-          633,
-          725,
           669,
           689,
           669
         ],
-        "text": "回",
+        "text": "水浒传第三十回",
         "type": "CENTER_FOLD_TEXT",
         "attributes": {
           "z_index": 1
@@ -1059,15 +593,15 @@
         "node_id": "n_top_margin7",
         "polygon": [
           926,
-          96,
+          86,
           948,
-          96,
+          86,
           948,
-          184,
+          196,
           926,
-          184
+          196
         ],
-        "text": "我磨刀之",
+        "text": "我磨刀之时",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1085,7 +619,7 @@
           898,
           196
         ],
-        "text": "时与人磨刀之时其",
+        "text": "与人磨刀之时其间",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1103,7 +637,7 @@
           870,
           196
         ],
-        "text": "间不能以寸然则非",
+        "text": "不能以寸然则非自",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1121,7 +655,7 @@
           842,
           196
         ],
-        "text": "自杀之不过一间所",
+        "text": "杀之不过一间所谓",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1135,11 +669,11 @@
           836,
           20,
           836,
-          174,
+          152,
           814,
-          174
+          152
         ],
-        "text": "谓易刀而杀之也",
+        "text": "易刀而杀之也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1148,14 +682,14 @@
       {
         "node_id": "n_top_margin12",
         "polygon": [
-          786,
-          20,
-          808,
-          20,
-          808,
-          64,
-          786,
-          64
+          814,
+          152,
+          836,
+          152,
+          836,
+          196,
+          814,
+          196
         ],
         "text": "呜呼",
         "type": "TOP_MARGINALIA",
@@ -1167,13 +701,13 @@
         "node_id": "n_top_margin13",
         "polygon": [
           786,
-          74,
+          20,
           808,
-          74,
+          20,
           808,
-          162,
+          108,
           786,
-          162
+          108
         ],
         "text": "岂惟是乎",
         "type": "TOP_MARGINALIA",
@@ -1185,15 +719,15 @@
         "node_id": "n_top_margin14",
         "polygon": [
           786,
-          172,
+          108,
           808,
-          172,
+          108,
           808,
-          194,
+          196,
           786,
-          194
+          196
         ],
-        "text": "夫",
+        "text": "夫易刀而",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1211,7 +745,7 @@
           758,
           196
         ],
-        "text": "易刀而杀之也是尚",
+        "text": "杀之也是尚以我之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1229,7 +763,7 @@
           730,
           196
         ],
-        "text": "以我之刀杀人以人",
+        "text": "刀杀人以人之刀杀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1247,7 +781,7 @@
           702,
           196
         ],
-        "text": "之刀杀我虽同归于",
+        "text": "我虽同归于一杀然",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1265,7 +799,7 @@
           674,
           196
         ],
-        "text": "一杀然我犹见杀于",
+        "text": "我犹见杀于人之刀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1283,7 +817,7 @@
           646,
           196
         ],
-        "text": "人之刀而不至遂杀",
+        "text": "而不至遂杀于我之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1297,11 +831,11 @@
           640,
           20,
           640,
-          130,
+          64,
           618,
-          130
+          64
         ],
-        "text": "于我之刀也",
+        "text": "刀也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1311,15 +845,15 @@
         "node_id": "n_top_margin21",
         "polygon": [
           618,
-          140,
+          64,
           640,
-          140,
+          64,
           640,
-          184,
+          196,
           618,
-          184
+          196
         ],
-        "text": "乃天",
+        "text": "乃天下祸机之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1337,7 +871,7 @@
           590,
           196
         ],
-        "text": "下祸机之发曾无一",
+        "text": "发曾无一格风霆骇",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1355,7 +889,7 @@
           562,
           196
         ],
-        "text": "格风霆骇变不须旋",
+        "text": "变不须旋踵如张都",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1373,7 +907,7 @@
           534,
           196
         ],
-        "text": "踵如张都监张团练",
+        "text": "监张团练蒋门神三",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1391,7 +925,7 @@
           506,
           196
         ],
-        "text": "蒋门神三人之遇害",
+        "text": "人之遇害可不为之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1405,11 +939,11 @@
           500,
           20,
           500,
-          174,
+          86,
           478,
-          174
+          86
         ],
-        "text": "可不为之痛悔哉",
+        "text": "痛悔哉",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1418,16 +952,16 @@
       {
         "node_id": "n_top_margin27",
         "polygon": [
-          450,
-          20,
-          472,
-          20,
-          472,
+          478,
+          86,
+          500,
+          86,
+          500,
           196,
-          450,
+          478,
           196
         ],
-        "text": "方其授意公人而复",
+        "text": "方其授意公",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1436,16 +970,16 @@
       {
         "node_id": "n_top_margin28",
         "polygon": [
-          422,
+          450,
           20,
-          444,
+          472,
           20,
-          444,
+          472,
           196,
-          422,
+          450,
           196
         ],
-        "text": "遣两徒弟往帮之也",
+        "text": "人而复遣两徒弟往",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1454,16 +988,16 @@
       {
         "node_id": "n_top_margin29",
         "polygon": [
-          394,
+          422,
           20,
-          416,
+          444,
           20,
-          416,
+          444,
           196,
-          394,
+          422,
           196
         ],
-        "text": "岂不尝殷勤致问尔",
+        "text": "帮之也岂不尝殷勤",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1472,16 +1006,16 @@
       {
         "node_id": "n_top_margin30",
         "polygon": [
-          366,
+          394,
           20,
-          388,
+          416,
           20,
-          388,
-          86,
-          366,
-          86
+          416,
+          152,
+          394,
+          152
         ],
-        "text": "有刀否",
+        "text": "致问尔有刀否",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1490,16 +1024,16 @@
       {
         "node_id": "n_top_margin31",
         "polygon": [
-          366,
-          96,
-          388,
-          96,
-          388,
-          184,
-          366,
-          184
+          394,
+          152,
+          416,
+          152,
+          416,
+          196,
+          394,
+          196
         ],
-        "text": "两人应言",
+        "text": "两人",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1508,16 +1042,16 @@
       {
         "node_id": "n_top_margin32",
         "polygon": [
-          338,
+          366,
           20,
-          360,
+          388,
           20,
-          360,
-          64,
-          338,
-          64
+          388,
+          108,
+          366,
+          108
         ],
-        "text": "有刀",
+        "text": "应言有刀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1526,16 +1060,16 @@
       {
         "node_id": "n_top_margin33",
         "polygon": [
-          338,
-          74,
-          360,
-          74,
-          360,
-          184,
-          338,
-          184
+          366,
+          108,
+          388,
+          108,
+          388,
+          196,
+          366,
+          196
         ],
-        "text": "即又殷勤致",
+        "text": "即又殷勤",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1544,16 +1078,16 @@
       {
         "node_id": "n_top_margin34",
         "polygon": [
-          310,
+          338,
           20,
-          332,
+          360,
           20,
-          332,
-          130,
-          310,
-          130
+          360,
+          152,
+          338,
+          152
         ],
-        "text": "问尔刀好否",
+        "text": "致问尔刀好否",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1562,14 +1096,14 @@
       {
         "node_id": "n_top_margin35",
         "polygon": [
-          310,
-          140,
-          332,
-          140,
-          332,
-          184,
-          310,
-          184
+          338,
+          152,
+          360,
+          152,
+          360,
+          196,
+          338,
+          196
         ],
         "text": "两人",
         "type": "TOP_MARGINALIA",
@@ -1580,13 +1114,13 @@
       {
         "node_id": "n_top_margin36",
         "polygon": [
-          282,
+          310,
           20,
-          304,
+          332,
           20,
-          304,
+          332,
           108,
-          282,
+          310,
           108
         ],
         "text": "应言好刀",
@@ -1598,16 +1132,16 @@
       {
         "node_id": "n_top_margin37",
         "polygon": [
-          282,
-          118,
-          304,
-          118,
-          304,
-          184,
-          282,
-          184
+          310,
+          108,
+          332,
+          108,
+          332,
+          196,
+          310,
+          196
         ],
-        "text": "则又殷",
+        "text": "则又殷勤",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1616,16 +1150,16 @@
       {
         "node_id": "n_top_margin38",
         "polygon": [
-          254,
+          282,
           20,
-          276,
+          304,
           20,
-          276,
-          196,
-          254,
-          196
+          304,
+          174,
+          282,
+          174
         ],
-        "text": "勤致问是新磨刀否",
+        "text": "致问是新磨刀否",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1634,16 +1168,16 @@
       {
         "node_id": "n_top_margin39",
         "polygon": [
-          226,
-          20,
-          248,
-          20,
-          248,
+          282,
+          174,
+          304,
+          174,
+          304,
           196,
-          226,
+          282,
           196
         ],
-        "text": "两人应言是新磨刀",
+        "text": "两",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1652,16 +1186,16 @@
       {
         "node_id": "n_top_margin40",
         "polygon": [
-          198,
+          254,
           20,
-          220,
+          276,
           20,
-          220,
-          196,
-          198,
-          196
+          276,
+          174,
+          254,
+          174
         ],
-        "text": "复又殷勤致问尔刀",
+        "text": "人应言是新磨刀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1670,16 +1204,16 @@
       {
         "node_id": "n_top_margin41",
         "polygon": [
-          170,
-          20,
-          192,
-          20,
-          192,
+          254,
           174,
-          170,
-          174
+          276,
+          174,
+          276,
+          196,
+          254,
+          196
         ],
-        "text": "杀得武松一个否",
+        "text": "复",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1688,16 +1222,16 @@
       {
         "node_id": "n_top_margin42",
         "polygon": [
-          142,
+          226,
           20,
-          164,
+          248,
           20,
-          164,
+          248,
           196,
-          142,
+          226,
           196
         ],
-        "text": "两人应言再加十四",
+        "text": "又殷勤致问尔刀杀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1706,16 +1240,16 @@
       {
         "node_id": "n_top_margin43",
         "polygon": [
-          114,
+          198,
           20,
-          136,
+          220,
           20,
-          136,
-          196,
-          114,
-          196
+          220,
+          152,
+          198,
+          152
         ],
-        "text": "五个亦杀得岂止武",
+        "text": "得武松一个否",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1724,16 +1258,16 @@
       {
         "node_id": "n_top_margin44",
         "polygon": [
-          86,
-          20,
-          108,
-          20,
-          108,
-          174,
-          86,
-          174
+          198,
+          152,
+          220,
+          152,
+          220,
+          196,
+          198,
+          196
         ],
-        "text": "松一个供得此刀",
+        "text": "两人",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1742,16 +1276,16 @@
       {
         "node_id": "n_top_margin45",
         "polygon": [
-          58,
+          170,
           20,
-          80,
+          192,
           20,
-          80,
+          192,
           196,
-          58,
+          170,
           196
         ],
-        "text": "当斯时莫不自谓此",
+        "text": "应言再加十四五个",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1760,16 +1294,16 @@
       {
         "node_id": "n_top_margin46",
         "polygon": [
-          30,
+          142,
           20,
-          52,
+          164,
           20,
-          52,
+          164,
           196,
-          30,
+          142,
           196
         ],
-        "text": "刀跨而往掣而出飞",
+        "text": "亦杀得岂止武松一",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1778,16 +1312,16 @@
       {
         "node_id": "n_top_margin47",
         "polygon": [
-          2,
+          114,
           20,
-          24,
+          136,
           20,
-          24,
-          196,
-          2,
-          196
+          136,
+          130,
+          114,
+          130
         ],
-        "text": "而起劈而落武松之",
+        "text": "个供得此刀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1796,16 +1330,16 @@
       {
         "node_id": "n_top_margin48",
         "polygon": [
-          -26,
-          20,
-          -4,
-          20,
-          -4,
+          114,
+          130,
+          136,
+          130,
+          136,
           196,
-          -26,
+          114,
           196
         ],
-        "text": "头断武松之血洒武",
+        "text": "当斯时",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1814,16 +1348,16 @@
       {
         "node_id": "n_top_margin49",
         "polygon": [
-          -54,
+          86,
           20,
-          -32,
+          108,
           20,
-          -32,
+          108,
           196,
-          -54,
+          86,
           196
         ],
-        "text": "松之命绝武松之冤",
+        "text": "莫不自谓此刀跨而",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1832,16 +1366,16 @@
       {
         "node_id": "n_top_margin50",
         "polygon": [
-          -82,
+          58,
           20,
-          -60,
+          80,
           20,
-          -60,
+          80,
           196,
-          -82,
+          58,
           196
         ],
-        "text": "拔于是拭之视之插",
+        "text": "往掣而出飞而起劈",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1850,16 +1384,16 @@
       {
         "node_id": "n_top_margin51",
         "polygon": [
-          -110,
+          30,
           20,
-          -88,
+          52,
           20,
-          -88,
+          52,
           196,
-          -110,
+          30,
           196
         ],
-        "text": "之悬之归更传观之",
+        "text": "而落武松之头断武",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1868,16 +1402,16 @@
       {
         "node_id": "n_top_margin52",
         "polygon": [
-          -138,
+          2,
           20,
-          -116,
+          24,
           20,
-          -116,
+          24,
           196,
-          -138,
+          2,
           196
         ],
-        "text": "叹美之摩挲之沥酒",
+        "text": "松之血洒武松之命",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1886,16 +1420,16 @@
       {
         "node_id": "n_top_margin53",
         "polygon": [
-          -166,
+          -26,
           20,
-          -144,
+          -4,
           20,
-          -144,
+          -4,
           196,
-          -166,
+          -26,
           196
         ],
-        "text": "祭之盖天下之大万",
+        "text": "绝武松之冤拔于是",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1904,16 +1438,16 @@
       {
         "node_id": "n_top_margin54",
         "polygon": [
-          -194,
+          -54,
           20,
-          -172,
+          -32,
           20,
-          -172,
+          -32,
           196,
-          -194,
+          -54,
           196
         ],
-        "text": "家之众其快心快事",
+        "text": "拭之视之插之悬之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1922,16 +1456,16 @@
       {
         "node_id": "n_top_margin55",
         "polygon": [
-          -222,
+          -82,
           20,
-          -200,
+          -60,
           20,
-          -200,
+          -60,
           196,
-          -222,
+          -82,
           196
         ],
-        "text": "当更未有过于鸳鸯",
+        "text": "归更传观之叹美之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1940,16 +1474,16 @@
       {
         "node_id": "n_top_margin56",
         "polygon": [
-          -250,
+          -110,
           20,
-          -228,
+          -88,
           20,
-          -228,
+          -88,
           196,
-          -250,
+          -110,
           196
         ],
-        "text": "楼上张都监张团练",
+        "text": "摩挲之沥酒祭之盖",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1958,16 +1492,16 @@
       {
         "node_id": "n_top_margin57",
         "polygon": [
-          -278,
+          -138,
           20,
-          -256,
+          -116,
           20,
-          -256,
+          -116,
           196,
-          -278,
+          -138,
           196
         ],
-        "text": "蒋门神之三人者也",
+        "text": "天下之大万家之众",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1976,16 +1510,16 @@
       {
         "node_id": "n_top_margin58",
         "polygon": [
-          -306,
+          -166,
           20,
-          -284,
+          -144,
           20,
-          -284,
+          -144,
           196,
-          -306,
+          -166,
           196
         ],
-        "text": "而殊不知云浦净手",
+        "text": "其快心快事当更未",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -1994,16 +1528,16 @@
       {
         "node_id": "n_top_margin59",
         "polygon": [
-          -334,
+          -194,
           20,
-          -312,
+          -172,
           20,
-          -312,
+          -172,
           196,
-          -334,
+          -194,
           196
         ],
-        "text": "马院吹灯刀之去自",
+        "text": "有过于鸳鸯楼上张",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2012,16 +1546,16 @@
       {
         "node_id": "n_top_margin60",
         "polygon": [
-          -362,
+          -222,
           20,
-          -340,
+          -200,
           20,
-          -340,
+          -200,
           196,
-          -362,
+          -222,
           196
         ],
-        "text": "前门而去者刀之归",
+        "text": "都监张团练蒋门神",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2030,16 +1564,16 @@
       {
         "node_id": "n_top_margin61",
         "polygon": [
-          -390,
+          -250,
           20,
-          -368,
+          -228,
           20,
-          -368,
-          152,
-          -390,
-          152
+          -228,
+          130,
+          -250,
+          130
         ],
-        "text": "已自后门而归",
+        "text": "之三人者也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2048,16 +1582,16 @@
       {
         "node_id": "n_top_margin62",
         "polygon": [
-          -390,
-          162,
-          -368,
-          162,
-          -368,
-          184,
-          -390,
-          184
+          -250,
+          130,
+          -228,
+          130,
+          -228,
+          196,
+          -250,
+          196
         ],
-        "text": "刀",
+        "text": "而殊不",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2066,16 +1600,16 @@
       {
         "node_id": "n_top_margin63",
         "polygon": [
-          -418,
+          -278,
           20,
-          -396,
+          -256,
           20,
-          -396,
+          -256,
           196,
-          -418,
+          -278,
           196
         ],
-        "text": "出前门之际刀尚姓",
+        "text": "知云浦净手马院吹",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2084,16 +1618,16 @@
       {
         "node_id": "n_top_margin64",
         "polygon": [
-          -446,
+          -306,
           20,
-          -424,
+          -284,
           20,
-          -424,
+          -284,
           196,
-          -446,
+          -306,
           196
         ],
-        "text": "张刀入后门之时刀",
+        "text": "灯刀之去自前门而",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2102,16 +1636,16 @@
       {
         "node_id": "n_top_margin65",
         "polygon": [
-          -474,
+          -334,
           20,
-          -452,
+          -312,
           20,
-          -452,
-          86,
-          -474,
-          86
+          -312,
+          196,
+          -334,
+          196
         ],
-        "text": "已姓武",
+        "text": "去者刀之归已自后",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2120,16 +1654,16 @@
       {
         "node_id": "n_top_margin66",
         "polygon": [
-          -474,
-          96,
-          -452,
-          96,
-          -452,
-          184,
-          -474,
-          184
+          -362,
+          20,
+          -340,
+          20,
+          -340,
+          86,
+          -362,
+          86
         ],
-        "text": "于是向之",
+        "text": "门而归",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2138,16 +1672,16 @@
       {
         "node_id": "n_top_margin67",
         "polygon": [
-          -502,
-          20,
-          -480,
-          20,
-          -480,
+          -362,
+          86,
+          -340,
+          86,
+          -340,
           196,
-          -502,
+          -362,
           196
         ],
-        "text": "霍霍自磨惟恐不铦",
+        "text": "刀出前门之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2156,16 +1690,16 @@
       {
         "node_id": "n_top_margin68",
         "polygon": [
-          -530,
+          -390,
           20,
-          -508,
+          -368,
           20,
-          -508,
+          -368,
           196,
-          -530,
+          -390,
           196
         ],
-        "text": "快者此夜一十九人",
+        "text": "际刀尚姓张刀入后",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2174,16 +1708,16 @@
       {
         "node_id": "n_top_margin69",
         "polygon": [
-          -558,
+          -418,
           20,
-          -536,
+          -396,
           20,
-          -536,
+          -396,
           174,
-          -558,
+          -418,
           174
         ],
-        "text": "遂亲以头颈试之",
+        "text": "门之时刀已姓武",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2192,16 +1726,16 @@
       {
         "node_id": "n_top_margin70",
         "polygon": [
-          -586,
-          20,
-          -564,
-          20,
-          -564,
-          64,
-          -586,
-          64
+          -418,
+          174,
+          -396,
+          174,
+          -396,
+          196,
+          -418,
+          196
         ],
-        "text": "呜呼",
+        "text": "于",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2210,16 +1744,16 @@
       {
         "node_id": "n_top_margin71",
         "polygon": [
-          -586,
-          74,
-          -564,
-          74,
-          -564,
-          162,
-          -586,
-          162
+          -446,
+          20,
+          -424,
+          20,
+          -424,
+          196,
+          -446,
+          196
         ],
-        "text": "岂忍言哉",
+        "text": "是向之霍霍自磨惟",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2228,16 +1762,16 @@
       {
         "node_id": "n_top_margin72",
         "polygon": [
-          -586,
-          172,
-          -564,
-          172,
-          -564,
-          194,
-          -586,
-          194
+          -474,
+          20,
+          -452,
+          20,
+          -452,
+          196,
+          -474,
+          196
         ],
-        "text": "夫",
+        "text": "恐不铦快者此夜一",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2246,16 +1780,16 @@
       {
         "node_id": "n_top_margin73",
         "polygon": [
-          -614,
+          -502,
           20,
-          -592,
+          -480,
           20,
-          -592,
+          -480,
           196,
-          -614,
+          -502,
           196
         ],
-        "text": "自买刀自佩之佩之",
+        "text": "十九人遂亲以头颈",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2264,16 +1798,16 @@
       {
         "node_id": "n_top_margin74",
         "polygon": [
-          -642,
+          -530,
           20,
-          -620,
+          -508,
           20,
-          -620,
-          196,
-          -642,
-          196
+          -508,
+          64,
+          -530,
+          64
         ],
-        "text": "多年而未尝杀一人",
+        "text": "试之",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2282,16 +1816,16 @@
       {
         "node_id": "n_top_margin75",
         "polygon": [
-          -670,
-          20,
-          -648,
-          20,
-          -648,
-          196,
-          -670,
-          196
+          -530,
+          64,
+          -508,
+          64,
+          -508,
+          108,
+          -530,
+          108
         ],
-        "text": "则是不如勿买不如",
+        "text": "呜呼",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2300,16 +1834,16 @@
       {
         "node_id": "n_top_margin76",
         "polygon": [
-          -698,
-          20,
-          -676,
-          20,
-          -676,
-          152,
-          -698,
-          152
+          -530,
+          108,
+          -508,
+          108,
+          -508,
+          196,
+          -530,
+          196
         ],
-        "text": "勿佩之为愈也",
+        "text": "岂忍言哉",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2318,16 +1852,16 @@
       {
         "node_id": "n_top_margin77",
         "polygon": [
-          -698,
-          162,
-          -676,
-          162,
-          -676,
-          184,
-          -698,
-          184
+          -558,
+          20,
+          -536,
+          20,
+          -536,
+          196,
+          -558,
+          196
         ],
-        "text": "自",
+        "text": "夫自买刀自佩之佩",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2336,13 +1870,85 @@
       {
         "node_id": "n_top_margin78",
         "polygon": [
-          -726,
+          -586,
           20,
-          -704,
+          -564,
           20,
-          -704,
+          -564,
           196,
-          -726,
+          -586,
+          196
+        ],
+        "text": "之多年而未尝杀一",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin79",
+        "polygon": [
+          -614,
+          20,
+          -592,
+          20,
+          -592,
+          196,
+          -614,
+          196
+        ],
+        "text": "人则是不如勿买不",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin80",
+        "polygon": [
+          -642,
+          20,
+          -620,
+          20,
+          -620,
+          174,
+          -642,
+          174
+        ],
+        "text": "如勿佩之为愈也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin81",
+        "polygon": [
+          -642,
+          174,
+          -620,
+          174,
+          -620,
+          196,
+          -642,
+          196
+        ],
+        "text": "自",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin82",
+        "polygon": [
+          -670,
+          20,
+          -648,
+          20,
+          -648,
+          196,
+          -670,
           196
         ],
         "text": "买刀自佩之佩之多",
@@ -2352,15 +1958,15 @@
         }
       },
       {
-        "node_id": "n_top_margin79",
+        "node_id": "n_top_margin83",
         "polygon": [
-          -754,
+          -698,
           20,
-          -732,
+          -676,
           20,
-          -732,
+          -676,
           196,
-          -754,
+          -698,
           196
         ],
         "text": "年而今夜始杀一人",
@@ -2370,15 +1976,15 @@
         }
       },
       {
-        "node_id": "n_top_margin80",
+        "node_id": "n_top_margin84",
         "polygon": [
-          -782,
+          -726,
           20,
-          -760,
+          -704,
           20,
-          -760,
+          -704,
           196,
-          -782,
+          -726,
           196
         ],
         "text": "顾一人未杀而刀已",
@@ -2388,15 +1994,15 @@
         }
       },
       {
-        "node_id": "n_top_margin81",
+        "node_id": "n_top_margin85",
         "polygon": [
-          -810,
+          -754,
           20,
-          -788,
+          -732,
           20,
-          -788,
+          -732,
           196,
-          -810,
+          -754,
           196
         ],
         "text": "反为所借而立杀我",
@@ -2406,15 +2012,15 @@
         }
       },
       {
-        "node_id": "n_top_margin82",
+        "node_id": "n_top_margin86",
         "polygon": [
-          -838,
+          -782,
           20,
-          -816,
+          -760,
           20,
-          -816,
+          -760,
           108,
-          -838,
+          -782,
           108
         ],
         "text": "一十九人",
@@ -2424,90 +2030,18 @@
         }
       },
       {
-        "node_id": "n_top_margin83",
-        "polygon": [
-          -838,
-          118,
-          -816,
-          118,
-          -816,
-          184,
-          -838,
-          184
-        ],
-        "text": "然则买",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin84",
-        "polygon": [
-          -866,
-          20,
-          -844,
-          20,
-          -844,
-          196,
-          -866,
-          196
-        ],
-        "text": "为自杀而买佩为自",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin85",
-        "polygon": [
-          -894,
-          20,
-          -872,
-          20,
-          -872,
-          174,
-          -894,
-          174
-        ],
-        "text": "杀而佩更无疑也",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin86",
-        "polygon": [
-          -922,
-          20,
-          -900,
-          20,
-          -900,
-          64,
-          -922,
-          64
-        ],
-        "text": "呜呼",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_top_margin87",
         "polygon": [
-          -922,
-          74,
-          -900,
-          74,
-          -900,
-          184,
-          -922,
-          184
+          -782,
+          108,
+          -760,
+          108,
+          -760,
+          196,
+          -782,
+          196
         ],
-        "text": "祸害之伏秘",
+        "text": "然则买为",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2516,16 +2050,16 @@
       {
         "node_id": "n_top_margin88",
         "polygon": [
-          -950,
+          -810,
           20,
-          -928,
+          -788,
           20,
-          -928,
+          -788,
           196,
-          -950,
+          -810,
           196
         ],
-        "text": "不得知及其猝发疾",
+        "text": "自杀而买佩为自杀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2534,16 +2068,16 @@
       {
         "node_id": "n_top_margin89",
         "polygon": [
-          -978,
+          -838,
           20,
-          -956,
+          -816,
           20,
-          -956,
-          196,
-          -978,
-          196
+          -816,
+          152,
+          -838,
+          152
         ],
-        "text": "不得掩盖自古至今",
+        "text": "而佩更无疑也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2552,16 +2086,16 @@
       {
         "node_id": "n_top_margin90",
         "polygon": [
-          -1006,
-          20,
-          -984,
-          20,
-          -984,
+          -838,
+          152,
+          -816,
+          152,
+          -816,
           196,
-          -1006,
+          -838,
           196
         ],
-        "text": "往往皆有乃世人之",
+        "text": "呜呼",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2570,16 +2104,16 @@
       {
         "node_id": "n_top_margin91",
         "polygon": [
-          -1034,
+          -866,
           20,
-          -1012,
+          -844,
           20,
-          -1012,
+          -844,
           196,
-          -1034,
+          -866,
           196
         ],
-        "text": "犹甘蹈之不悟则何",
+        "text": "祸害之伏秘不得知",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2588,16 +2122,16 @@
       {
         "node_id": "n_top_margin92",
         "polygon": [
-          -1062,
+          -894,
           20,
-          -1040,
+          -872,
           20,
-          -1040,
+          -872,
           196,
-          -1062,
+          -894,
           196
         ],
-        "text": "不读水浒二刀之文",
+        "text": "及其猝发疾不得掩",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2606,16 +2140,16 @@
       {
         "node_id": "n_top_margin93",
         "polygon": [
-          -1090,
+          -922,
           20,
-          -1068,
+          -900,
           20,
-          -1068,
-          42,
-          -1090,
-          42
+          -900,
+          196,
+          -922,
+          196
         ],
-        "text": "哉",
+        "text": "盖自古至今往往皆",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2624,16 +2158,16 @@
       {
         "node_id": "n_top_margin94",
         "polygon": [
-          -1090,
-          52,
-          -1068,
-          52,
-          -1068,
-          184,
-          -1090,
-          184
+          -950,
+          20,
+          -928,
+          20,
+          -928,
+          196,
+          -950,
+          196
         ],
-        "text": "此文妙处不在",
+        "text": "有乃世人之犹甘蹈",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2642,16 +2176,16 @@
       {
         "node_id": "n_top_margin95",
         "polygon": [
-          -1118,
+          -978,
           20,
-          -1096,
+          -956,
           20,
-          -1096,
+          -956,
           196,
-          -1118,
+          -978,
           196
         ],
-        "text": "写武松心粗手辣逢",
+        "text": "之不悟则何不读水",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2660,16 +2194,16 @@
       {
         "node_id": "n_top_margin96",
         "polygon": [
-          -1146,
+          -1006,
           20,
-          -1124,
+          -984,
           20,
-          -1124,
-          196,
-          -1146,
-          196
+          -984,
+          152,
+          -1006,
+          152
         ],
-        "text": "人便斫须要细细看",
+        "text": "浒二刀之文哉",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2678,16 +2212,16 @@
       {
         "node_id": "n_top_margin97",
         "polygon": [
-          -1174,
-          20,
-          -1152,
-          20,
-          -1152,
+          -1006,
+          152,
+          -984,
+          152,
+          -984,
           196,
-          -1174,
+          -1006,
           196
         ],
-        "text": "他笔致闲处笔尖细",
+        "text": "此文",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2696,16 +2230,16 @@
       {
         "node_id": "n_top_margin98",
         "polygon": [
-          -1202,
+          -1034,
           20,
-          -1180,
+          -1012,
           20,
-          -1180,
+          -1012,
           196,
-          -1202,
+          -1034,
           196
         ],
-        "text": "处笔法严处笔力大",
+        "text": "妙处不在写武松心",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2714,16 +2248,16 @@
       {
         "node_id": "n_top_margin99",
         "polygon": [
-          -1230,
+          -1062,
           20,
-          -1208,
+          -1040,
           20,
-          -1208,
-          130,
-          -1230,
-          130
+          -1040,
+          196,
+          -1062,
+          196
         ],
-        "text": "处笔路别处",
+        "text": "粗手辣逢人便斫须",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2732,16 +2266,16 @@
       {
         "node_id": "n_top_margin100",
         "polygon": [
-          -1230,
-          140,
-          -1208,
-          140,
-          -1208,
-          184,
-          -1230,
-          184
+          -1090,
+          20,
+          -1068,
+          20,
+          -1068,
+          196,
+          -1090,
+          196
         ],
-        "text": "如马",
+        "text": "要细细看他笔致闲",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2750,16 +2284,16 @@
       {
         "node_id": "n_top_margin101",
         "polygon": [
-          -1258,
+          -1118,
           20,
-          -1236,
+          -1096,
           20,
-          -1236,
+          -1096,
           196,
-          -1258,
+          -1118,
           196
         ],
-        "text": "槽听得声音方才知",
+        "text": "处笔尖细处笔法严",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2768,16 +2302,16 @@
       {
         "node_id": "n_top_margin102",
         "polygon": [
-          -1286,
+          -1146,
           20,
-          -1264,
+          -1124,
           20,
-          -1264,
+          -1124,
           196,
-          -1286,
+          -1146,
           196
         ],
-        "text": "是武松句丫鬟骂客",
+        "text": "处笔力大处笔路别",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2786,16 +2320,16 @@
       {
         "node_id": "n_top_margin103",
         "polygon": [
-          -1314,
+          -1174,
           20,
-          -1292,
+          -1152,
           20,
-          -1292,
-          196,
-          -1314,
-          196
+          -1152,
+          42,
+          -1174,
+          42
         ],
-        "text": "人一段酒器皆不曾",
+        "text": "处",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2804,16 +2338,16 @@
       {
         "node_id": "n_top_margin104",
         "polygon": [
-          -1342,
-          20,
-          -1320,
-          20,
-          -1320,
+          -1174,
+          42,
+          -1152,
+          42,
+          -1152,
           196,
-          -1342,
+          -1174,
           196
         ],
-        "text": "收句夫人兀自问谁",
+        "text": "如马槽听得声音",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2822,16 +2356,16 @@
       {
         "node_id": "n_top_margin105",
         "polygon": [
-          -1370,
+          -1202,
           20,
-          -1348,
+          -1180,
           20,
-          -1348,
+          -1180,
           196,
-          -1370,
+          -1202,
           196
         ],
-        "text": "句此其笔致之闲也",
+        "text": "方才知是武松句丫",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2840,16 +2374,16 @@
       {
         "node_id": "n_top_margin106",
         "polygon": [
-          -1398,
+          -1230,
           20,
-          -1376,
+          -1208,
           20,
-          -1376,
+          -1208,
           196,
-          -1398,
+          -1230,
           196
         ],
-        "text": "杀后槽便把后槽尸",
+        "text": "鬟骂客人一段酒器",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2858,16 +2392,16 @@
       {
         "node_id": "n_top_margin107",
         "polygon": [
-          -1426,
+          -1258,
           20,
-          -1404,
+          -1236,
           20,
-          -1404,
+          -1236,
           196,
-          -1426,
+          -1258,
           196
         ],
-        "text": "首踢过句吹灭马院",
+        "text": "皆不曾收句夫人兀",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2876,16 +2410,16 @@
       {
         "node_id": "n_top_margin108",
         "polygon": [
-          -1454,
+          -1286,
           20,
-          -1432,
+          -1264,
           20,
-          -1432,
+          -1264,
           196,
-          -1454,
+          -1286,
           196
         ],
-        "text": "灯火句开角门便掇",
+        "text": "自问谁句此其笔致",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2894,16 +2428,16 @@
       {
         "node_id": "n_top_margin109",
         "polygon": [
-          -1482,
+          -1314,
           20,
-          -1460,
+          -1292,
           20,
-          -1460,
-          196,
-          -1482,
-          196
+          -1292,
+          86,
+          -1314,
+          86
         ],
-        "text": "过门扇句掩角门便",
+        "text": "之闲也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2912,16 +2446,16 @@
       {
         "node_id": "n_top_margin110",
         "polygon": [
-          -1510,
-          20,
-          -1488,
-          20,
-          -1488,
+          -1314,
+          86,
+          -1292,
+          86,
+          -1292,
           196,
-          -1510,
+          -1314,
           196
         ],
-        "text": "把闩都提过句丫鬟",
+        "text": "杀后槽便把",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2930,16 +2464,16 @@
       {
         "node_id": "n_top_margin111",
         "polygon": [
-          -1538,
+          -1342,
           20,
-          -1516,
+          -1320,
           20,
-          -1516,
+          -1320,
           196,
-          -1538,
+          -1342,
           196
         ],
-        "text": "尸首拖放灶前句灭",
+        "text": "后槽尸首踢过句吹",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2948,16 +2482,16 @@
       {
         "node_id": "n_top_margin112",
         "polygon": [
-          -1566,
+          -1370,
           20,
-          -1544,
+          -1348,
           20,
-          -1544,
+          -1348,
           196,
-          -1566,
+          -1370,
           196
         ],
-        "text": "了厨下灯火句走出",
+        "text": "灭马院灯火句开角",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2966,16 +2500,16 @@
       {
         "node_id": "n_top_margin113",
         "polygon": [
-          -1594,
+          -1398,
           20,
-          -1572,
+          -1376,
           20,
-          -1572,
+          -1376,
           196,
-          -1594,
+          -1398,
           196
         ],
-        "text": "中门拴前门句撇了",
+        "text": "门便掇过门扇句掩",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -2984,16 +2518,16 @@
       {
         "node_id": "n_top_margin114",
         "polygon": [
-          -1622,
+          -1426,
           20,
-          -1600,
+          -1404,
           20,
-          -1600,
+          -1404,
           196,
-          -1622,
+          -1426,
           196
         ],
-        "text": "刀鞘句此其笔尖之",
+        "text": "角门便把闩都提过",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3002,16 +2536,16 @@
       {
         "node_id": "n_top_margin115",
         "polygon": [
-          -1650,
+          -1454,
           20,
-          -1628,
+          -1432,
           20,
-          -1628,
-          64,
-          -1650,
-          64
+          -1432,
+          196,
+          -1454,
+          196
         ],
-        "text": "细也",
+        "text": "句丫鬟尸首拖放灶",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3020,16 +2554,16 @@
       {
         "node_id": "n_top_margin116",
         "polygon": [
-          -1650,
-          74,
-          -1628,
-          74,
-          -1628,
-          184,
-          -1650,
-          184
+          -1482,
+          20,
+          -1460,
+          20,
+          -1460,
+          196,
+          -1482,
+          196
         ],
-        "text": "前书一更四",
+        "text": "前句灭了厨下灯火",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3038,16 +2572,16 @@
       {
         "node_id": "n_top_margin117",
         "polygon": [
-          -1678,
+          -1510,
           20,
-          -1656,
+          -1488,
           20,
-          -1656,
+          -1488,
           196,
-          -1678,
+          -1510,
           196
         ],
-        "text": "点后书四更三点前",
+        "text": "句走出中门拴前门",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3056,16 +2590,16 @@
       {
         "node_id": "n_top_margin118",
         "polygon": [
-          -1706,
+          -1538,
           20,
-          -1684,
+          -1516,
           20,
-          -1684,
+          -1516,
           196,
-          -1706,
+          -1538,
           196
         ],
-        "text": "插出施恩所送绵衣",
+        "text": "句撇了刀鞘句此其",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3074,16 +2608,16 @@
       {
         "node_id": "n_top_margin119",
         "polygon": [
-          -1734,
+          -1566,
           20,
-          -1712,
+          -1544,
           20,
-          -1712,
-          196,
-          -1734,
-          196
+          -1544,
+          130,
+          -1566,
+          130
         ],
-        "text": "及碎银后插出麻鞋",
+        "text": "笔尖之细也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3092,16 +2626,16 @@
       {
         "node_id": "n_top_margin120",
         "polygon": [
-          -1762,
-          20,
-          -1740,
-          20,
-          -1740,
-          174,
-          -1762,
-          174
+          -1566,
+          130,
+          -1544,
+          130,
+          -1544,
+          196,
+          -1566,
+          196
         ],
-        "text": "此其笔法之严也",
+        "text": "前书一",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3110,16 +2644,16 @@
       {
         "node_id": "n_top_margin121",
         "polygon": [
-          -1790,
+          -1594,
           20,
-          -1768,
+          -1572,
           20,
-          -1768,
+          -1572,
           196,
-          -1790,
+          -1594,
           196
         ],
-        "text": "抢入后门杀了后槽",
+        "text": "更四点后书四更三",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3128,16 +2662,16 @@
       {
         "node_id": "n_top_margin122",
         "polygon": [
-          -1818,
+          -1622,
           20,
-          -1796,
+          -1600,
           20,
-          -1796,
+          -1600,
           196,
-          -1818,
+          -1622,
           196
         ],
-        "text": "却又闪出后门拿了",
+        "text": "点前插出施恩所送",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3146,16 +2680,16 @@
       {
         "node_id": "n_top_margin123",
         "polygon": [
-          -1846,
+          -1650,
           20,
-          -1824,
+          -1628,
           20,
-          -1824,
+          -1628,
           196,
-          -1846,
+          -1650,
           196
         ],
-        "text": "朴刀门扇上爬入角",
+        "text": "绵衣及碎银后插出",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3164,16 +2698,16 @@
       {
         "node_id": "n_top_margin124",
         "polygon": [
-          -1874,
+          -1678,
           20,
-          -1852,
+          -1656,
           20,
-          -1852,
+          -1656,
           196,
-          -1874,
+          -1678,
           196
         ],
-        "text": "门却又开出角门掇",
+        "text": "麻鞋此其笔法之严",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3182,175 +2716,13 @@
       {
         "node_id": "n_top_margin125",
         "polygon": [
-          -1902,
+          -1706,
           20,
-          -1880,
+          -1684,
           20,
-          -1880,
-          196,
-          -1902,
-          196
-        ],
-        "text": "过门扇抢入楼中杀",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin126",
-        "polygon": [
-          -1930,
-          20,
-          -1908,
-          20,
-          -1908,
-          196,
-          -1930,
-          196
-        ],
-        "text": "了三人却又退出楼",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin127",
-        "polygon": [
-          -1958,
-          20,
-          -1936,
-          20,
-          -1936,
-          196,
-          -1958,
-          196
-        ],
-        "text": "梯让过两人重复随",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin128",
-        "polygon": [
-          -1986,
-          20,
-          -1964,
-          20,
-          -1964,
-          196,
-          -1986,
-          196
-        ],
-        "text": "入楼中杀了二人然",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin129",
-        "polygon": [
-          -2014,
-          20,
-          -1992,
-          20,
-          -1992,
-          196,
-          -2014,
-          196
-        ],
-        "text": "后抢下楼来杀了夫",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin130",
-        "polygon": [
-          -2042,
-          20,
-          -2020,
-          20,
-          -2020,
-          196,
-          -2042,
-          196
-        ],
-        "text": "人再到厨房换了朴",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin131",
-        "polygon": [
-          -2070,
-          20,
-          -2048,
-          20,
-          -2048,
-          196,
-          -2070,
-          196
-        ],
-        "text": "刀反出中堂拴了前",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin132",
-        "polygon": [
-          -2098,
-          20,
-          -2076,
-          20,
-          -2076,
-          196,
-          -2098,
-          196
-        ],
-        "text": "门一连共有十数个",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin133",
-        "polygon": [
-          -2126,
-          20,
-          -2104,
-          20,
-          -2104,
-          196,
-          -2126,
-          196
-        ],
-        "text": "转身此其笔力之大",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin134",
-        "polygon": [
-          -2154,
-          20,
-          -2132,
-          20,
-          -2132,
+          -1684,
           42,
-          -2154,
+          -1706,
           42
         ],
         "text": "也",
@@ -3360,18 +2732,180 @@
         }
       },
       {
+        "node_id": "n_top_margin126",
+        "polygon": [
+          -1706,
+          42,
+          -1684,
+          42,
+          -1684,
+          196,
+          -1706,
+          196
+        ],
+        "text": "抢入后门杀了后",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin127",
+        "polygon": [
+          -1734,
+          20,
+          -1712,
+          20,
+          -1712,
+          196,
+          -1734,
+          196
+        ],
+        "text": "槽却又闪出后门拿",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin128",
+        "polygon": [
+          -1762,
+          20,
+          -1740,
+          20,
+          -1740,
+          196,
+          -1762,
+          196
+        ],
+        "text": "了朴刀门扇上爬入",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin129",
+        "polygon": [
+          -1790,
+          20,
+          -1768,
+          20,
+          -1768,
+          196,
+          -1790,
+          196
+        ],
+        "text": "角门却又开出角门",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin130",
+        "polygon": [
+          -1818,
+          20,
+          -1796,
+          20,
+          -1796,
+          196,
+          -1818,
+          196
+        ],
+        "text": "掇过门扇抢入楼中",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin131",
+        "polygon": [
+          -1846,
+          20,
+          -1824,
+          20,
+          -1824,
+          196,
+          -1846,
+          196
+        ],
+        "text": "杀了三人却又退出",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin132",
+        "polygon": [
+          -1874,
+          20,
+          -1852,
+          20,
+          -1852,
+          196,
+          -1874,
+          196
+        ],
+        "text": "楼梯让过两人重复",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin133",
+        "polygon": [
+          -1902,
+          20,
+          -1880,
+          20,
+          -1880,
+          196,
+          -1902,
+          196
+        ],
+        "text": "随入楼中杀了二人",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin134",
+        "polygon": [
+          -1930,
+          20,
+          -1908,
+          20,
+          -1908,
+          196,
+          -1930,
+          196
+        ],
+        "text": "然后抢下楼来杀了",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
         "node_id": "n_top_margin135",
         "polygon": [
-          -2154,
-          52,
-          -2132,
-          52,
-          -2132,
-          184,
-          -2154,
-          184
+          -1958,
+          20,
+          -1936,
+          20,
+          -1936,
+          196,
+          -1958,
+          196
         ],
-        "text": "一路凡有十一",
+        "text": "夫人再到厨房换了",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3380,13 +2914,103 @@
       {
         "node_id": "n_top_margin136",
         "polygon": [
-          -2182,
+          -1986,
           20,
-          -2160,
+          -1964,
           20,
-          -2160,
+          -1964,
           196,
-          -2182,
+          -1986,
+          196
+        ],
+        "text": "朴刀反出中堂拴了",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin137",
+        "polygon": [
+          -2014,
+          20,
+          -1992,
+          20,
+          -1992,
+          196,
+          -2014,
+          196
+        ],
+        "text": "前门一连共有十数",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin138",
+        "polygon": [
+          -2042,
+          20,
+          -2020,
+          20,
+          -2020,
+          196,
+          -2042,
+          196
+        ],
+        "text": "个转身此其笔力之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin139",
+        "polygon": [
+          -2070,
+          20,
+          -2048,
+          20,
+          -2048,
+          64,
+          -2070,
+          64
+        ],
+        "text": "大也",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin140",
+        "polygon": [
+          -2070,
+          64,
+          -2048,
+          64,
+          -2048,
+          196,
+          -2070,
+          196
+        ],
+        "text": "一路凡有十一",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin141",
+        "polygon": [
+          -2098,
+          20,
+          -2076,
+          20,
+          -2076,
+          196,
+          -2098,
           196
         ],
         "text": "个灯字四个月字此",
@@ -3396,15 +3020,15 @@
         }
       },
       {
-        "node_id": "n_top_margin137",
+        "node_id": "n_top_margin142",
         "polygon": [
-          -2210,
+          -2126,
           20,
-          -2188,
+          -2104,
           20,
-          -2188,
+          -2104,
           152,
-          -2210,
+          -2126,
           152
         ],
         "text": "其笔路之别也",
@@ -3414,108 +3038,18 @@
         }
       },
       {
-        "node_id": "n_top_margin138",
-        "polygon": [
-          -2210,
-          162,
-          -2188,
-          162,
-          -2188,
-          184,
-          -2210,
-          184
-        ],
-        "text": "鸳",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin139",
-        "polygon": [
-          -2238,
-          20,
-          -2216,
-          20,
-          -2216,
-          196,
-          -2238,
-          196
-        ],
-        "text": "鸯楼之立名我知之",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin140",
-        "polygon": [
-          -2266,
-          20,
-          -2244,
-          20,
-          -2244,
-          196,
-          -2266,
-          196
-        ],
-        "text": "矣殆言得意之事与",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin141",
-        "polygon": [
-          -2294,
-          20,
-          -2272,
-          20,
-          -2272,
-          196,
-          -2294,
-          196
-        ],
-        "text": "失意之事相倚相伏",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
-        "node_id": "n_top_margin142",
-        "polygon": [
-          -2322,
-          20,
-          -2300,
-          20,
-          -2300,
-          196,
-          -2322,
-          196
-        ],
-        "text": "未曾暂离喻如鸳鸯",
-        "type": "TOP_MARGINALIA",
-        "attributes": {
-          "z_index": 2
-        }
-      },
-      {
         "node_id": "n_top_margin143",
         "polygon": [
-          -2350,
-          20,
-          -2328,
-          20,
-          -2328,
-          130,
-          -2350,
-          130
+          -2126,
+          152,
+          -2104,
+          152,
+          -2104,
+          196,
+          -2126,
+          196
         ],
-        "text": "二鸟双游也",
+        "text": "鸳鸯",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3524,16 +3058,16 @@
       {
         "node_id": "n_top_margin144",
         "polygon": [
-          -2350,
-          140,
-          -2328,
-          140,
-          -2328,
-          184,
-          -2350,
-          184
+          -2154,
+          20,
+          -2132,
+          20,
+          -2132,
+          196,
+          -2154,
+          196
         ],
-        "text": "佛言",
+        "text": "楼之立名我知之矣",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3542,16 +3076,16 @@
       {
         "node_id": "n_top_margin145",
         "polygon": [
-          -2378,
+          -2182,
           20,
-          -2356,
+          -2160,
           20,
-          -2356,
+          -2160,
           196,
-          -2378,
+          -2182,
           196
         ],
-        "text": "功德天尝与黑暗女",
+        "text": "殆言得意之事与失",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3560,16 +3094,16 @@
       {
         "node_id": "n_top_margin146",
         "polygon": [
-          -2406,
+          -2210,
           20,
-          -2384,
+          -2188,
           20,
-          -2384,
+          -2188,
           196,
-          -2406,
+          -2210,
           196
         ],
-        "text": "姊妹相逐是其义也",
+        "text": "意之事相倚相伏未",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3578,16 +3112,16 @@
       {
         "node_id": "n_top_margin147",
         "polygon": [
-          -2434,
+          -2238,
           20,
-          -2412,
+          -2216,
           20,
-          -2412,
+          -2216,
           196,
-          -2434,
+          -2238,
           196
         ],
-        "text": "武松蜈蚣岭一段文",
+        "text": "曾暂离喻如鸳鸯二",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3596,16 +3130,16 @@
       {
         "node_id": "n_top_margin148",
         "polygon": [
-          -2462,
+          -2266,
           20,
-          -2440,
+          -2244,
           20,
-          -2440,
-          196,
-          -2462,
-          196
+          -2244,
+          108,
+          -2266,
+          108
         ],
-        "text": "字意思暗与鲁达瓦",
+        "text": "鸟双游也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3614,16 +3148,16 @@
       {
         "node_id": "n_top_margin149",
         "polygon": [
-          -2490,
-          20,
-          -2468,
-          20,
-          -2468,
+          -2266,
+          108,
+          -2244,
+          108,
+          -2244,
           196,
-          -2490,
+          -2266,
           196
         ],
-        "text": "官寺一段相对亦是",
+        "text": "佛言功德",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3632,16 +3166,16 @@
       {
         "node_id": "n_top_margin150",
         "polygon": [
-          -2518,
+          -2294,
           20,
-          -2496,
+          -2272,
           20,
-          -2496,
+          -2272,
           196,
-          -2518,
+          -2294,
           196
         ],
-        "text": "初得戒刀另与喝采",
+        "text": "天尝与黑暗女姊妹",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3650,16 +3184,16 @@
       {
         "node_id": "n_top_margin151",
         "polygon": [
-          -2546,
+          -2322,
           20,
-          -2524,
+          -2300,
           20,
-          -2524,
-          196,
-          -2546,
-          196
+          -2300,
+          152,
+          -2322,
+          152
         ],
-        "text": "一番耳并不复关武",
+        "text": "相逐是其义也",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -3668,16 +3202,124 @@
       {
         "node_id": "n_top_margin152",
         "polygon": [
-          -2574,
-          20,
-          -2552,
-          20,
-          -2552,
-          86,
-          -2574,
-          86
+          -2322,
+          152,
+          -2300,
+          152,
+          -2300,
+          196,
+          -2322,
+          196
         ],
-        "text": "松之事",
+        "text": "武松",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin153",
+        "polygon": [
+          -2350,
+          20,
+          -2328,
+          20,
+          -2328,
+          196,
+          -2350,
+          196
+        ],
+        "text": "蜈蚣岭一段文字意",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin154",
+        "polygon": [
+          -2378,
+          20,
+          -2356,
+          20,
+          -2356,
+          196,
+          -2378,
+          196
+        ],
+        "text": "思暗与鲁达瓦官寺",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin155",
+        "polygon": [
+          -2406,
+          20,
+          -2384,
+          20,
+          -2384,
+          196,
+          -2406,
+          196
+        ],
+        "text": "一段相对亦是初得",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin156",
+        "polygon": [
+          -2434,
+          20,
+          -2412,
+          20,
+          -2412,
+          196,
+          -2434,
+          196
+        ],
+        "text": "戒刀另与喝采一番",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin157",
+        "polygon": [
+          -2462,
+          20,
+          -2440,
+          20,
+          -2440,
+          196,
+          -2462,
+          196
+        ],
+        "text": "耳并不复关武松之",
+        "type": "TOP_MARGINALIA",
+        "attributes": {
+          "z_index": 2
+        }
+      },
+      {
+        "node_id": "n_top_margin158",
+        "polygon": [
+          -2490,
+          20,
+          -2468,
+          20,
+          -2468,
+          42,
+          -2490,
+          42
+        ],
+        "text": "事",
         "type": "TOP_MARGINALIA",
         "attributes": {
           "z_index": 2
@@ -4007,7 +3649,7 @@
         }
       },
       {
-        "node_id": "n_top_margin153",
+        "node_id": "n_top_margin159",
         "polygon": [
           866,
           20,
@@ -4025,7 +3667,7 @@
         }
       },
       {
-        "node_id": "n_top_margin154",
+        "node_id": "n_top_margin160",
         "polygon": [
           838,
           20,
@@ -5114,748 +4756,373 @@
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main1",
+        "source": "n_main2",
         "target": "n_separator2",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main2",
-        "target": "n_separator3",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main2",
-        "target": "n_separator4",
-        "type": "CONFINED_WITHIN"
-      },
-      {
         "source": "n_main3",
-        "target": "n_separator3",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main3",
-        "target": "n_separator4",
+        "target": "n_separator2",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main4",
+        "target": "n_separator2",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main5",
         "target": "n_separator3",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main4",
+        "source": "n_main6",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main7",
+        "target": "n_separator3",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main8",
         "target": "n_separator4",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main5",
-        "target": "n_separator5",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main5",
-        "target": "n_separator6",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main6",
-        "target": "n_separator5",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main6",
-        "target": "n_separator6",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main7",
-        "target": "n_separator5",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main7",
-        "target": "n_separator6",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main8",
-        "target": "n_separator7",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main8",
-        "target": "n_separator8",
-        "type": "CONFINED_WITHIN"
-      },
-      {
         "source": "n_main9",
-        "target": "n_separator7",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main9",
-        "target": "n_separator8",
+        "target": "n_separator4",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main10",
-        "target": "n_separator9",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main10",
-        "target": "n_separator10",
+        "target": "n_separator5",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main11",
-        "target": "n_separator9",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main11",
-        "target": "n_separator10",
+        "target": "n_separator5",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main12",
-        "target": "n_separator9",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main12",
-        "target": "n_separator10",
+        "target": "n_separator5",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main13",
+        "target": "n_separator5",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main14",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main15",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main16",
+        "target": "n_separator6",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main17",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main18",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear1",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main19",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear2",
+        "target": "n_separator7",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear3",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear4",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main20",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main21",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main22",
+        "target": "n_separator8",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main23",
         "target": "n_separator9",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main13",
+        "source": "n_main24",
+        "target": "n_separator9",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main25",
+        "target": "n_separator9",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main26",
         "target": "n_separator10",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main14",
-        "target": "n_separator11",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main14",
-        "target": "n_separator12",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main15",
-        "target": "n_separator11",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main15",
-        "target": "n_separator12",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main16",
-        "target": "n_separator11",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main16",
-        "target": "n_separator12",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main17",
-        "target": "n_separator13",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main17",
-        "target": "n_separator14",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main18",
-        "target": "n_separator13",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main18",
-        "target": "n_separator14",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear1",
-        "target": "n_separator13",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear1",
-        "target": "n_separator14",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main19",
-        "target": "n_separator13",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main19",
-        "target": "n_separator14",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear2",
-        "target": "n_separator13",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear2",
-        "target": "n_separator14",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear3",
-        "target": "n_separator15",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear3",
-        "target": "n_separator16",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear4",
-        "target": "n_separator15",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear4",
-        "target": "n_separator16",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main20",
-        "target": "n_separator15",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main20",
-        "target": "n_separator16",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main21",
-        "target": "n_separator15",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main21",
-        "target": "n_separator16",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main22",
-        "target": "n_separator15",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main22",
-        "target": "n_separator16",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main23",
-        "target": "n_separator17",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main23",
-        "target": "n_separator18",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main24",
-        "target": "n_separator17",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main24",
-        "target": "n_separator18",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main25",
-        "target": "n_separator17",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main25",
-        "target": "n_separator18",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main26",
-        "target": "n_separator19",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main26",
-        "target": "n_separator20",
-        "type": "CONFINED_WITHIN"
-      },
-      {
         "source": "n_main27",
-        "target": "n_separator19",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main27",
-        "target": "n_separator20",
+        "target": "n_separator10",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main28",
+        "target": "n_separator10",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main29",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main30",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main31",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main32",
+        "target": "n_separator11",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main33",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear5",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main34",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear6",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main35",
+        "target": "n_separator12",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main36",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear7",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main37",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main38",
+        "target": "n_separator13",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main39",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear8",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear9",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main40",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main41",
+        "target": "n_separator14",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main42",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear10",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main43",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main44",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main45",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main46",
+        "target": "n_separator15",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main47",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main48",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main49",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main50",
+        "target": "n_separator16",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main51",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear11",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main52",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear12",
+        "target": "n_separator17",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main53",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_interlinear13",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main54",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main55",
+        "target": "n_separator18",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main56",
         "target": "n_separator19",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main28",
+        "source": "n_main57",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main58",
+        "target": "n_separator19",
+        "type": "CONFINED_WITHIN"
+      },
+      {
+        "source": "n_main59",
         "target": "n_separator20",
         "type": "CONFINED_WITHIN"
       },
       {
-        "source": "n_main29",
-        "target": "n_separator21",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main29",
-        "target": "n_separator22",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main30",
-        "target": "n_separator21",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main30",
-        "target": "n_separator22",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main31",
-        "target": "n_separator21",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main31",
-        "target": "n_separator22",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main32",
-        "target": "n_separator21",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main32",
-        "target": "n_separator22",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main33",
-        "target": "n_separator23",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main33",
-        "target": "n_separator24",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear5",
-        "target": "n_separator23",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear5",
-        "target": "n_separator24",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main34",
-        "target": "n_separator23",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main34",
-        "target": "n_separator24",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear6",
-        "target": "n_separator23",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear6",
-        "target": "n_separator24",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main35",
-        "target": "n_separator23",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main35",
-        "target": "n_separator24",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main36",
-        "target": "n_separator25",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main36",
-        "target": "n_separator26",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear7",
-        "target": "n_separator25",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear7",
-        "target": "n_separator26",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main37",
-        "target": "n_separator25",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main37",
-        "target": "n_separator26",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main38",
-        "target": "n_separator25",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main38",
-        "target": "n_separator26",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main39",
-        "target": "n_separator27",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main39",
-        "target": "n_separator28",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear8",
-        "target": "n_separator27",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear8",
-        "target": "n_separator28",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear9",
-        "target": "n_separator27",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear9",
-        "target": "n_separator28",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main40",
-        "target": "n_separator27",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main40",
-        "target": "n_separator28",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main41",
-        "target": "n_separator27",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main41",
-        "target": "n_separator28",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main42",
-        "target": "n_separator29",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main42",
-        "target": "n_separator30",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear10",
-        "target": "n_separator29",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear10",
-        "target": "n_separator30",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main43",
-        "target": "n_separator29",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main43",
-        "target": "n_separator30",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main44",
-        "target": "n_separator29",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main44",
-        "target": "n_separator30",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main45",
-        "target": "n_separator29",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main45",
-        "target": "n_separator30",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main46",
-        "target": "n_separator29",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main46",
-        "target": "n_separator30",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main47",
-        "target": "n_separator31",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main47",
-        "target": "n_separator32",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main48",
-        "target": "n_separator31",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main48",
-        "target": "n_separator32",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main49",
-        "target": "n_separator31",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main49",
-        "target": "n_separator32",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main50",
-        "target": "n_separator31",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main50",
-        "target": "n_separator32",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main51",
-        "target": "n_separator33",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main51",
-        "target": "n_separator34",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear11",
-        "target": "n_separator33",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear11",
-        "target": "n_separator34",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main52",
-        "target": "n_separator33",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main52",
-        "target": "n_separator34",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear12",
-        "target": "n_separator33",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear12",
-        "target": "n_separator34",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main53",
-        "target": "n_separator35",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main53",
-        "target": "n_separator36",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear13",
-        "target": "n_separator35",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_interlinear13",
-        "target": "n_separator36",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main54",
-        "target": "n_separator35",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main54",
-        "target": "n_separator36",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main55",
-        "target": "n_separator35",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main55",
-        "target": "n_separator36",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main56",
-        "target": "n_separator37",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main56",
-        "target": "n_separator38",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main57",
-        "target": "n_separator37",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main57",
-        "target": "n_separator38",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main58",
-        "target": "n_separator37",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main58",
-        "target": "n_separator38",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main59",
-        "target": "n_separator39",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main59",
-        "target": "n_separator40",
-        "type": "CONFINED_WITHIN"
-      },
-      {
         "source": "n_main60",
-        "target": "n_separator39",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main60",
-        "target": "n_separator40",
+        "target": "n_separator20",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main61",
-        "target": "n_separator39",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main61",
-        "target": "n_separator40",
+        "target": "n_separator20",
         "type": "CONFINED_WITHIN"
       },
       {
         "source": "n_main62",
-        "target": "n_separator39",
-        "type": "CONFINED_WITHIN"
-      },
-      {
-        "source": "n_main62",
-        "target": "n_separator40",
+        "target": "n_separator20",
         "type": "CONFINED_WITHIN"
       },
       {
@@ -6990,11 +6257,41 @@
       },
       {
         "source": "n_top_margin153",
-        "target": "n_main19",
+        "target": "n_main4",
         "type": "ANNOTATES"
       },
       {
         "source": "n_top_margin154",
+        "target": "n_main4",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin155",
+        "target": "n_main4",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin156",
+        "target": "n_main4",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin157",
+        "target": "n_main4",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin158",
+        "target": "n_main4",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin159",
+        "target": "n_main19",
+        "type": "ANNOTATES"
+      },
+      {
+        "source": "n_top_margin160",
         "target": "n_main19",
         "type": "ANNOTATES"
       }
